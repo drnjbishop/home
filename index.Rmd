@@ -24,6 +24,8 @@ output: html_document
 
 # Supporting the health of aging populations  
 
+&nbsp;
+
 ## Portfolio
 
 1.  Concurrent progression of complex chronic conditions
