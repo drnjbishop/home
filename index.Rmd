@@ -45,6 +45,6 @@ Hi there, I'm is an Assistant Professor in Human Development and Family Sciences
 <!-- ### Population health, gerontology, and nutirtional epidemiology -->
 
 <!-- <a href = "https://crumplab.github.io"> -->
-![](images/mountain.png) 
+![](images/mountain_2.jpg) 
 </a>
 </div>
