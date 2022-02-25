@@ -17,11 +17,9 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# Quantitative approaches to improving health in aging populations
+# I hate the fact that I'm the last edition, properly a stats magician, Could've went to college and been a mathematician
 
-Hi there, I'm is an Assistant Professor in Human Development and Family Sciences at Texas State University. I study substantive and methodological aspects of chronic disease in aging populations.
-
-<!-- ## What is this website all about? -->
+<!-- I'm is an Assistant Professor in Human Development and Family Sciences at Texas State University. I study substantive and methodological aspects of chronic disease in aging populations.  -->
 
 <!-- 1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite) -->
 
@@ -30,13 +28,13 @@ Hi there, I'm is an Assistant Professor in Human Development and Family Sciences
 <!-- 3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R. -->
 
 <!-- 4. Change everything to make it your own. -->
-## Portfolio
+<!-- ## Portfolio -->
 
-1. Concurrent development of chronic conditions
+<!-- 1. Concurrent progression of complex chronic conditions -->
 
-2. Potentially modifiable risk and protective factors
+<!-- 2. Identification of potentially modifiable risk and protective factors -->
 
-3. Cohort dynamics in population health and aging
+<!-- 3. Cohort dynamics in population health and aging -->
 
 </div>
 <div class="col-sm-6">
@@ -45,6 +43,6 @@ Hi there, I'm is an Assistant Professor in Human Development and Family Sciences
 <!-- ### Population health, gerontology, and nutirtional epidemiology -->
 
 <!-- <a href = "https://crumplab.github.io"> -->
-![](images/mountain_2.jpg) 
+![](images/Pun.jpeg) 
 </a>
 </div>
