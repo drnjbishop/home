@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Portfolio"
 navbar:
-  title: "MyLabJournal"
+  title: "Nicholas Bishop, PhD"
   left:
     - text: "Home"
       href: index.html
