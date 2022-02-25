@@ -17,7 +17,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# Positve Energy Activates Constant Elevation
+# Quantitative approaches to improving health in aging populations
 
 Hi there, I'm is an Assistant Professor in Human Development and Family Sciences at Texas State University. I study substantive and methodological aspects of chronic disease in aging populations.
 
@@ -30,17 +30,19 @@ Hi there, I'm is an Assistant Professor in Human Development and Family Sciences
 <!-- 3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R. -->
 
 <!-- 4. Change everything to make it your own. -->
-## What is this website all about?
+## Portfolio
 
-1. Present published work, focusing on methodological approaches. 
+1. Concurrent development of chronic conditions
 
-2. Network with fellow knowledge seekers. 
+2. Potentially modifiable risk and protective factors
+
+3. Cohort dynamics in population health and aging
 
 </div>
 <div class="col-sm-6">
 
 <!-- ### [Population health, gerontology, and nutirtional epidemiology](https://crumplab.github.io) -->
-### Population health, gerontology, and nutirtional epidemiology
+<!-- ### Population health, gerontology, and nutirtional epidemiology -->
 
 <!-- <a href = "https://crumplab.github.io"> -->
 ![](images/mountain.png) 
