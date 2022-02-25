@@ -3,6 +3,7 @@ title: "njb portfolio"
 output: html_document
 ---
 
+```{=html}
 <style type="text/css">
 .title {
   display: none;
@@ -13,36 +14,31 @@ output: html_document
 }
 
 </style>
-
+```
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
 
-# I hate the fact that I'm the last edition, properly a stats magician, Could've went to college and been a mathematician
+::: col-sm-6
+<!-- # I hate the fact that I'm the last edition, properly a stats magician, Could've went to college and been a mathematician - Big Pun -->
 
-<!-- I'm is an Assistant Professor in Human Development and Family Sciences at Texas State University. I study substantive and methodological aspects of chronic disease in aging populations.  -->
+<!-- # Population health, gerontology, and nutritional epidemiology -->
 
-<!-- 1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite) -->
+# Supporting the health of aging populations  
 
-<!-- 2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R. -->
+## Portfolio
 
-<!-- 3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R. -->
+1.  Concurrent progression of complex chronic conditions
 
-<!-- 4. Change everything to make it your own. -->
-<!-- ## Portfolio -->
+2.  Identification of potentially modifiable risk and protective factors
 
-<!-- 1. Concurrent progression of complex chronic conditions -->
+3.  Cohort dynamics in population health and aging
+:::
 
-<!-- 2. Identification of potentially modifiable risk and protective factors -->
+::: col-sm-6
+<!-- ### [Population health, gerontology, and nutritional epidemiology](https://crumplab.github.io) -->
 
-<!-- 3. Cohort dynamics in population health and aging -->
-
-</div>
-<div class="col-sm-6">
-
-<!-- ### [Population health, gerontology, and nutirtional epidemiology](https://crumplab.github.io) -->
-<!-- ### Population health, gerontology, and nutirtional epidemiology -->
+<!--  -->
 
 <!-- <a href = "https://crumplab.github.io"> -->
-![](images/Pun.jpeg) 
-</a>
-</div>
+
+![](images/mountain_2.jpg) </a>
+:::
