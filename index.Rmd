@@ -39,35 +39,8 @@ output: html_document
 ![](images/mountain_2_opt.jpeg) </a>
 :::
 
-<!-- <table width="100%" cellspacing="0" cellpadding="0"> -->
-<!--   <tr> -->
-<!--       <td> -->
-<!--           <table cellspacing="0" cellpadding="0"> -->
-<!--               <tr> -->
-<!--                   <td style="border-radius: 2px;" bgcolor="23395d"> -->
-<!--                       <a href="Email: bishop.nicholas.j@gmail.com" target="_blank" style="padding: 8px 12px; border: 1px solid #23395d;border-radius: 2px;font-family: Helvetica, Arial, sans-serif;font-size: 14px; color: #FFFFFF;text-decoration: none;font-weight:bold;display: inline-block;"> -->
-<!--                           Email              -->
-<!--                       </a> -->
-<!--                   </td> -->
-<!--               </tr> -->
-<!--           </table> -->
-<!--       </td> -->
-<!--   </tr> -->
-<!-- </table> -->
+<a href = "Email: bishop.nicholas.j@gmail.com">Email: bishop.nicholas.j@gmail.com</a>
 
-<a href="Email: bishop.nicholas.j@gmail.com" style="background-color: #23395d; font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration: none; padding: 14px 20px; color: #ffffff; border-radius: 5px; display: inline-block; mso-padding-alt: 0;">
-    <!--[if mso]>
-    <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i>
-    <![endif]-->
-    <span style="mso-text-raise: 15pt;"> Email </span>
-    <!--[if mso]>
-    <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i>
-    <![endif]-->
-</a>
-
-
-<!-- <a href = "Email: bishop.nicholas.j@gmail.com">Email: bishop.nicholas.j@gmail.com</a> -->
-
-<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @drnjbishop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
