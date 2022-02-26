@@ -39,7 +39,8 @@ output: html_document
 ![](images/mountain_2_opt.jpeg) </a>
 :::
 
-<a href = "Email: bishop.nicholas.j@gmail.com">Email: bishop.nicholas.j@gmail.com</a>
+<a href = "Email: bishop.nicholas.j@gmail.com" style="font-size: 18px;" >
+  Email: bishop.nicholas.j@gmail.com</a>
 
 <a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @drnjbishop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
