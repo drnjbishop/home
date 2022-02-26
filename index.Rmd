@@ -56,7 +56,7 @@ output: html_document
 
 * Toolkit (10+ years experience)
   + SAS (e.g., PROC SURVEYREG, PROC GLIMMIX, arrays/macros)
-  + R (e.g., ggplot, Tidyverse)
+  + R (e.g., ggplot, Tidyverse, RSiena)
   + Mplus
   
 &nbsp; 
