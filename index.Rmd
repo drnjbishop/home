@@ -23,42 +23,49 @@ output: html_document
 
 &nbsp;
 
-## Substantive Expertise
+## Substantive expertise
 
-1.  Concurrent progression of complex chronic conditions
+* Concurrent progression of complex chronic conditions
+  + Dementia and cognitive impairment 
+  + Multimorbidity
+  + Mobility limitations
 
-2.  Identification of potentially modifiable risk and protective factors (i.e.; comorbid chronic conditions, dietary intake, food insecurity)
+* Identification of potentially modifiable risk and protective factors 
+  + Comorbid chronic conditions
+  + Dietary intake 
+  + Food insecurity
 
-3.  Cohort dynamics in population health and aging
-
-## Methodological Expertise
-
-1.  General linear mixed modeling (e.g.; Gaussian, logit, Poisson, and ZINB distributions; multilevel modeling)
-
-2.  Latent variable modeling (e.g.; latent growth models, latent class/profile analysis, etc.)
-
-3.  Analysis of complex longitudinal health data (e.g.; household clustered national probability samples; non-random missing data)
+* Cohort dynamics in population health and aging  
 
 &nbsp;
+
+## Methodological expertise
+
+* General linear mixed modeling 
+  + Gaussian, logit, Poisson, and ZINB distributions 
+  + Multilevel modeling
+
+* Latent variable modeling 
+  + Latent growth models
+  + Latent class/profile analysis
+
+* Analysis of complex longitudinal health data 
+  + Household clustered national probability samples
+  + Non-random missing data
+
+* Toolkit
+  + SAS (15 years)
+  + Mplus (15 years)
+  + R (e.g., ggplot (10 years))
+
+&nbsp; 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+***
 
 <a href = "Email: bishop.nicholas.j@gmail.com" style="font-size: 18px;" >
   Email: bishop.nicholas.j@gmail.com </a>
-
+  
 <a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @drnjbishop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 :::
