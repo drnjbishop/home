@@ -19,7 +19,7 @@ output: html_document
 
 ::: col-sm-6
 
-# Supporting the health of aging populations  
+# Supporting health in aging populations  
 
 &nbsp;
 
@@ -30,34 +30,35 @@ output: html_document
   + Multimorbidity
   + Mobility limitations
 
-* Identification of potentially modifiable risk and protective factors 
+* Identification of modifiable risk/protective factors 
   + Comorbid chronic conditions
   + Dietary intake 
   + Food insecurity
 
-* Cohort dynamics in population health and aging  
+* Cohort trends in population health
 
 &nbsp;
 
 ## Methodological expertise
 
 * Longitudinal modeling 
-  + Gaussian, logit, Poisson, ZIP/ZINB outcome distributions 
+  + Gaussian, logit, Poisson, ZIP/ZINB distributions 
   + Growth modeling (latent and multilevel approaches)
+  + Change scores, first-order autoregression
   + Survival analysis
 
 * Classification models
-  + Latent class/profile analysis
+  + Latent class analysis
 
 * Analysis of dynamic health data 
   + Household clustered national probability samples
   + Non-random missing data (mortality selection)
 
-* Toolkit
-  + SAS (15+ years)
-  + Mplus (15 years)
-  + R (e.g., ggplot (10 years))
-
+* Toolkit (10+ years experience)
+  + SAS
+  + R
+  + Mplus
+  
 &nbsp; 
 &nbsp;
 
@@ -69,7 +70,8 @@ output: html_document
 <a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" >
   Google Scholar </a>
   
-<a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @drnjbishop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" style="font-size: 16px;" >
+  Twitter </a>
 
 :::
 
