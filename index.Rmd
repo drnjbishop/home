@@ -41,20 +41,20 @@ output: html_document
 
 ## Methodological expertise
 
-* General linear mixed modeling 
-  + Gaussian, logit, Poisson, and ZINB distributions 
-  + Multilevel modeling
+* Longitudinal modeling 
+  + Gaussian, logit, Poisson, ZIP/ZINB outcome distributions 
+  + Growth modeling (latent and multilevel approaches)
+  + Survival analysis
 
-* Latent variable modeling 
-  + Latent growth models
+* Classification models
   + Latent class/profile analysis
 
-* Analysis of complex longitudinal health data 
+* Analysis of dynamic health data 
   + Household clustered national probability samples
-  + Non-random missing data
+  + Non-random missing data (mortality selection)
 
 * Toolkit
-  + SAS (15 years)
+  + SAS (15+ years)
   + Mplus (15 years)
   + R (e.g., ggplot (10 years))
 
@@ -63,8 +63,11 @@ output: html_document
 
 ***
 
-<a href = "Email: bishop.nicholas.j@gmail.com" style="font-size: 18px;" >
+<a href = "Email: bishop.nicholas.j@gmail.com" style="font-size: 16px;" >
   Email: bishop.nicholas.j@gmail.com </a>
+  
+<a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" >
+  Google Scholar </a>
   
 <a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @drnjbishop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
