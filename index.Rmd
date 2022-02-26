@@ -19,7 +19,7 @@ output: html_document
 
 ::: col-sm-6
 
-# Supporting health in aging populations  
+# Promoting health in aging populations  
 
 &nbsp;
 
@@ -66,6 +66,9 @@ output: html_document
 
 <a href = "Email: bishop.nicholas.j@gmail.com" style="font-size: 16px;" >
   Email: bishop.nicholas.j@gmail.com </a>
+  
+<a href = "~/Desktop/testGithub/portfolio/docs/Bishop CV 022622.pdf" style="font-size: 16px;" >
+  CV </a>
   
 <a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" >
   Google Scholar </a>
