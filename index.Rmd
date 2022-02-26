@@ -38,3 +38,9 @@ output: html_document
 
 ![](images/mountain_2_opt.jpeg) </a>
 :::
+
+
+<a href = "Email: bishop.nicholas.j@gmail.com">Email: bishop.nicholas.j@gmail.com</a>
+
+
+
