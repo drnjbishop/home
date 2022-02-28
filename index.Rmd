@@ -26,7 +26,7 @@ output: html_document
 ## Substantive expertise
 
 * Concurrent progression of complex chronic conditions
-  + Dementia and cognitive impairment 
+  + Dementia and cognitive impairment
   + Multimorbidity
   + Mobility limitations
 
