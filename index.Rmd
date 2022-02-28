@@ -1,5 +1,5 @@
 ---
-title: "njb portfolio"
+title: "home"
 output: html_document
 ---
 
@@ -54,7 +54,7 @@ output: html_document
   + Household clustered national probability samples
   + Non-random missing data (mortality selection)
 
-* Toolkit (10+ years experience)
+* Toolkit
   + SAS (e.g., PROC SURVEYREG, PROC GLIMMIX, arrays/macros)
   + R (e.g., Tidyverse, ggplot2, RSiena)
   + Mplus
