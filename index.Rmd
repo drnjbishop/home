@@ -18,7 +18,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 
 ::: col-sm-6
-# TEST ON TABLET
+
 # Promoting health in aging populations  
 
 &nbsp;
