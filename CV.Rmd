@@ -37,4 +37,18 @@ Texas State University Drive
 
 San Marcos, TX 78666
 
-<a href="mailto:nicholas.bishop@txstate.edu" style="font-size:16px;"> E-mail:nicholas.bishop@txstate.edu</a>
+<a href="mailto:nicholas.bishop@txstate.edu" style="font-size:16px;"> E-mail:nicholas.bishop\@txstate.edu</a>
+
+[**ACADEMIC/PROFESSIONAL BACKGROUND**]{.underline}
+
+**Education**
+
+**University Experience**
+
+**Relevant Professional Experience**
+
+[**GRANTS AND CONTRACTS**]{.underline}
+
+**Funded External Grants and Contracts (2; Total external funding received: \$99,416)**
+
+1.  
