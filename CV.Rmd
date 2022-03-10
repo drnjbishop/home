@@ -18,6 +18,21 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 
 # Coming soon!
+
 test
 
+**Dr. Nicholas J. Bishop**
+
+Curriculum Vitae
+
 Assistant Professor
+
+Human Development and Family Sciences
+
+School of Family and Consumer Science
+
+Texas State University Drive
+
+601 University Drive
+
+San Marcos, TX 78666
