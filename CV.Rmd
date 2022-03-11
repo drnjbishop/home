@@ -124,3 +124,25 @@ M.\* (2018). Designing a WIC app to improve health behaviors: A latent class ana
 15.     Hegde, A. L., & **Bishop, N. J.** (2018). Saturation based color appearance of objects: A comparison between healthy elderly, young adults, and young adults wearing goggles simulating cataract. *Building and Environment*, *127*, 148-156. [https://doi.org/10.1016/j.buildenv.2017.11.007 ](https://doi.org/10.1016/j.buildenv.2017.11.007)(**Impact factor, 2018: 4.820**)
 
 16.     **Bishop, N. J.**, Zuniga, K. E., & Lucht, A.\* (2018). Latent profiles of macronutrient density and their association with mobility limitations in an observational longitudinal study of older U.S. adults. *The Journal of Nutrition, Health, & Aging*, *22*(6), 645-654. [https://doi.org/10.1007/s12603-017-0986-0 ](https://doi.org/10.1007/s12603-017-0986-0)(**Impact factor, 2018: 2.660**)
+
+17.     **Bishop, N. J.**, Eggum-Wilkens, N. D., Haas, S. A., & Kronenfeld, J. J. (2016). Estimating the co-development of cognitive decline and physical mobility limitations in older U.S. adults. *Demography*, *53*(2), 337-364. <https://doi.org/10.1007/s13524-016-0458-x> (**Impact factor, 2016: 2.802**)
+
+18.     Schaefer, D. R., Haas, S. A., & **Bishop, N. J.** (2012). A dynamic model of U.S. adolescents' smoking and friendship networks. *American Journal of Public Health*, *102*(6), e12-e18. [https://]{.underline} [doi.org/10.2105/AJPH.2012.300705 (**Impact**](https://doi.org/10.2105/AJPH.2012.300705) **factor, 2012: 3.930**)
+
+19.     **Bishop, N. J.** (2011). Predicting rapid DUI recidivism using the Driver Risk Inventory on a state-wide sample of Floridian DUI offenders. *Drug and Alcohol Dependence*, *118*(2), 423-429. [https://doi.org/10.1016/j.drugalcdep.2011.05.006 ](https://doi.org/10.1016/j.drugalcdep.2011.05.006)(**Impact factor, 2011: 3.383**)
+
+20.     **Bishop, N. J.** (2011). Predicting multiple DUI offenders using the Florida DRI. *Substance Use & Misuse*, *46*(5), 696-703. <https://doi.org/10.3109/10826084.2010.529629> (**Impact factor, 2011: 1.104**)
+
+21.     Haas, S. A., & **Bishop, N. J.** (2010). What do retrospective subjective reports of childhood health capture? Evidence from the Wisconsin Longitudinal Study. *Research on Aging*, *32*(6), 698-714. <https://doi.org/10.1177/0164027510379347> (**Impact factor, 2010: 1.290)**
+
+**Journal Articles Under Review (3)**
+
+1.     **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. Cohort trends in chronic disease burden and multimorbidity among aging US adults. Under review at *The Journals of Gerontology, Series B: Social Sciences*, originally submitted September 15, 2021, revision submitted February 21, 2022.
+
+2.     **Bishop, N. J.**, & Zhu, J. Racial/ethnic variation in the association between 4-year change in cystatin C and dietary quality in older Americans. Under review at *British Journal of Nutrition*, revision submitted November 15, 2021, revision submitted February 15, 2022.
+
+3.     Flynn, T.\*, Goble, P., **Bishop, N.**, & Weimer, A. Early childhood hospitalization and problematic behaviors: A propensity score analysis. Under review at *Journal of Child Health Care*, submitted July 7, 2021, revise and resubmit due February 28, 2022.
+
+**Journal Articles in Progress (1)**
+
+1.     Zambrano, P.\*, Perez-Brena, N. J., Duncan, J., & **Bishop, N.** Coparenting dyads among Latinx adolescent parent families. To be submitted to *Journal of Family Psychology.*
