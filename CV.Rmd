@@ -233,3 +233,23 @@ M.\* (2018). Designing a WIC app to improve health behaviors: A latent class ana
 
 6.     **Bishop, N. J.**, & Zuniga, K. E. (2017, February). *Identifying Diet Typologies
 and Predictors of Macronutrient Consumption among Aging Americans*. Paper presented at the Health Scholar Showcase Texas State University.
+
+**Roundtables (1)**
+
+1.     **Bishop, N. J.**, & Schaefer, D. R. (2009, August). American Sociological Association, annual meeting, "The Academic Influence of the Adolescent Peer Group: How Does Variation in Social Network Capital Influence Individual Outcomes?"
+
+**Invited Talks, Lectures, and Presentations (4)**
+
+1.     **Bishop, N. J.**, & Zuniga, K. (2019, July). "Walnut Consumption and Cognitive Trajectories in a Representative Sample of Older U.S. Adults". California Walnut Commission Health Research Conference.
+
+2.     **Bishop, N. J.**, Tummala, P., & Herrington, D. (2013, August). "2013 Arizona State Health Assessment," University of Arizona Mel & Enid Zuckerman College of Public Health.
+
+3.     **Bishop, N. J.** (2012, June). "Understanding the Arizona Department of Education's 2012 A-F Letter Grade School Accountability System."
+
+4.     **Bishop, N. J.** (2011, October). Making Connections, Oklahoma Department of Mental Health and Substance Abuse Services, annual conference, "Comparison of National DUI Data (and more!)."
+
+**Presented Workshops (2)**
+
+1.     **Bishop, N. J.** (2021, March). Department of Family and Consumer Sciences/College of Applied Arts faculty workshop, "An Introduction to R and R Studio Cloud" Texas State University.
+
+2.     **Bishop, N. J.** (2015, October). Department of Family and Consumer Sciences faculty workshop, "For Good (Latent) Measure: Guidelines in Scale Development" Texas State University.
