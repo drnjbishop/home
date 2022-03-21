@@ -1,0 +1,90 @@
+---
+title: "njb home"
+output: html_document
+---
+
+```{=html}
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+```
+<div class="row" style="padding-top: 30px;">
+
+::: col-sm-6
+
+# Promoting health in aging populations  
+
+&nbsp;
+
+## Substantive expertise
+
+* Concurrent progression of complex chronic conditions
+  + Dementia and cognitive impairment
+  + Multimorbidity
+  + Mobility limitations
+
+* Identification of modifiable risk/protective factors 
+  + Comorbid chronic conditions
+  + Dietary intake 
+  + Food insecurity
+
+* Cohort trends in population health
+
+&nbsp;
+
+## Methodological expertise
+
+* Longitudinal modeling 
+  + Gaussian, logit, Poisson, ZIP/ZINB distributions 
+  + Growth modeling (latent and multilevel approaches)
+  + Change scores, first-order autoregression
+  + Survival analysis
+
+* Classification models
+  + Latent class analysis
+
+* Analysis of dynamic health data 
+  + Household clustered national probability samples
+  + Non-random missing data (mortality selection)
+
+* Toolkit
+  + SAS (e.g., PROC SURVEYREG, PROC GLIMMIX, arrays/macros)
+  + R (e.g., Tidyverse, ggplot2, RSiena)
+  + Mplus
+  
+&nbsp; 
+&nbsp;
+
+***
+
+<a href = "Email: bishop.nicholas.j@gmail.com" style="font-size: 16px;" >
+  Email: bishop.nicholas.j@gmail.com </a>
+  
+<a href = "https://github.com/drnjbishop/portfolio/blob/af32e6f53725e1ca16bee9fbb0b05a50bb63c104/docs/Bishop%20CV%20022622.pdf" style="font-size: 16px;" >
+  CV </a>
+  
+<a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" >
+  Google Scholar </a>
+  
+<a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" style="font-size: 16px;" >
+  Twitter </a>
+
+:::
+
+::: col-sm-6
+
+<!-- <a href = "https://crumplab.github.io"> -->
+
+![](images/mountain_2_opt.jpeg) </a>
+:::
+
+
+
+
