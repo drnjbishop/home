@@ -1,9 +1,10 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 fontfamily: helvet
 output:
   html_document: default
-  pdf_document: default
+  pdf_document:
+    latex_engine: pdflatex
   word_document: default
 ---
 
@@ -11,10 +12,6 @@ output:
 <style type="text/css">
 .title {
   display: none;
-}
-
-#getting-started img {
-  margin-right: 10px;
 }
 
 </style>
