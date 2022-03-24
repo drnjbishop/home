@@ -2,9 +2,15 @@
 title: "Curriculum Vitae"
 fontfamily: helvet
 output:
-  html_document: default
   pdf_document:
     latex_engine: pdflatex
+  html_document:
+    css: style.css
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 2
   word_document: default
 ---
 
@@ -18,7 +24,7 @@ output:
 ```
 <div class="row" style="padding-top: 30px;">
 
-# **Dr. Nicholas J. Bishop**
+## **Dr. Nicholas J. Bishop**
 
 Assistant Professor
 
@@ -30,7 +36,7 @@ Texas State University
 
 Updated: 03/11/22
 
-[**ACADEMIC/PROFESSIONAL BACKGROUND**]{.underline}
+# **Academic/Professional Background**
 
 **Education**
 
@@ -72,7 +78,7 @@ Updated: 03/11/22
 
 -   Statistical Consultant, Behavior Data Systems, Ltd., 2008 --2011
 
-[**GRANTS AND CONTRACTS**]{.underline}
+# **Grants and Contracts**
 
 **Funded External Grants and Contracts**
 
@@ -102,7 +108,7 @@ Updated: 03/11/22
 
 6.  Smith, K. (PI), **Bishop, N.** (co-PI), Gray, G. (co-PI), Tamir, D. (co-PI), & Williams, R. (co-PI). SoberCat Smartphone App to Decrease Binge Drinking in College Students. Funder: National Institutes of Health, National Institute on Alcohol Abuse and Alcoholism, \$398,412. (Submitted March 16, 2016).
 
-[**RESEARCH (\*designates student author)**]{.underline}
+# **Research (\*designates student author)**
 
 **Refereed Journal Articles**
 
@@ -290,7 +296,7 @@ Updated: 03/11/22
 
 2.  University press release. "Texas State study shows walnut consumption associated with better cognitive health". Published July 28, 2020. [https://news.txstate.edu/research](https://news.txstate.edu/research-and-innovation/2020/texas-state-study-shows-walnut-consumption-associated-with-better-cognitive-health.html) [and-](https://news.txstate.edu/research-and-innovation/2020/texas-state-study-shows-walnut-consumption-associated-with-better-cognitive-health.html) [innovation/2020/texas-state-study-shows-walnut-consumption-associated-with-better-cognitive-](https://news.txstate.edu/research-and-innovation/2020/texas-state-study-shows-walnut-consumption-associated-with-better-cognitive-health.html) [health.html](https://news.txstate.edu/research-and-innovation/2020/texas-state-study-shows-walnut-consumption-associated-with-better-cognitive-health.html)
 
-[**TEACHING**]{.underline}
+# **Teaching**
 
 **Courses Taught**
 
@@ -334,7 +340,7 @@ Updated: 03/11/22
 
 6.  Master's Thesis, "Assessment of Diet Quality of Preschool-aged Children in San Marcos, Texas Based on the Healthy Eating Index-2010", Status: Completed. (December 2015 -- November 1, 2016). Nutrition and Foods, School of Family and Consumer Sciences.
 
-[**SERVICE**]{.underline}
+# **Service**
 
 **Institutional**
 

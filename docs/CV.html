@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -57,6 +60,7 @@ if (window.hljs) {
 
 
 
+<link rel="stylesheet" href="style.css" type="text/css" />
 
 
 
@@ -218,6 +222,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -225,6 +292,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -272,14 +349,16 @@ $(document).ready(function () {
 </style>
 <div class="row" style="padding-top: 30px;">
 
-<div id="dr.-nicholas-j.-bishop" class="section level1">
-<h1><strong>Dr. Nicholas J. Bishop</strong></h1>
+<div id="dr.-nicholas-j.-bishop" class="section level2">
+<h2><strong>Dr. Nicholas J. Bishop</strong></h2>
 <p>Assistant Professor</p>
 <p>Human Development and Family Sciences</p>
 <p>School of Family and Consumer Science</p>
 <p>Texas State University</p>
 <p>Updated: 03/11/22</p>
-<p><u><strong>ACADEMIC/PROFESSIONAL BACKGROUND</strong></u></p>
+</div>
+<div id="academicprofessional-background" class="section level1">
+<h1><strong>Academic/Professional Background</strong></h1>
 <p><strong>Education</strong></p>
 <ul>
 <li><p>PhD, Arizona State University, Sociology, 2011</p></li>
@@ -317,7 +396,9 @@ Education, 2012– 2013</p></li>
 <li><p>Statistical Consultant, Behavior Data Systems, Ltd., 2008
 –2011</p></li>
 </ul>
-<p><u><strong>GRANTS AND CONTRACTS</strong></u></p>
+</div>
+<div id="grants-and-contracts" class="section level1">
+<h1><strong>Grants and Contracts</strong></h1>
 <p><strong>Funded External Grants and Contracts</strong></p>
 <ol style="list-style-type: decimal">
 <li><p><strong>Bishop, N. J.</strong> (PI), &amp; Zuniga, K. E. (Co-PI)
@@ -386,7 +467,9 @@ Smartphone App to Decrease Binge Drinking in College Students. Funder:
 National Institutes of Health, National Institute on Alcohol Abuse and
 Alcoholism, $398,412. (Submitted March 16, 2016).</p></li>
 </ol>
-<p><u><strong>RESEARCH (*designates student author)</strong></u></p>
+</div>
+<div id="research-designates-student-author" class="section level1">
+<h1><strong>Research (*designates student author)</strong></h1>
 <p><strong>Refereed Journal Articles</strong></p>
 <ol style="list-style-type: decimal">
 <li><p>Pan, X., Luo, Y., &amp; <strong>Bishop, N.</strong> Cognitive
@@ -834,7 +917,9 @@ href="https://news.txstate.edu/research-and-innovation/2020/texas-state-study-sh
 <a
 href="https://news.txstate.edu/research-and-innovation/2020/texas-state-study-shows-walnut-consumption-associated-with-better-cognitive-health.html">health.html</a></p></li>
 </ol>
-<p><u><strong>TEACHING</strong></u></p>
+</div>
+<div id="teaching" class="section level1">
+<h1><strong>Teaching</strong></h1>
 <p><strong>Courses Taught</strong></p>
 <p><em>Texas State University (6 courses; 23 sections)</em></p>
 <ol style="list-style-type: decimal">
@@ -893,7 +978,9 @@ Children in San Marcos, Texas Based on the Healthy Eating Index-2010”,
 Status: Completed. (December 2015 – November 1, 2016). Nutrition and
 Foods, School of Family and Consumer Sciences.</p></li>
 </ol>
-<p><u><strong>SERVICE</strong></u></p>
+</div>
+<div id="service" class="section level1">
+<h1><strong>Service</strong></h1>
 <p><strong>Institutional</strong></p>
 <p><em>University</em></p>
 <ol style="list-style-type: decimal">
@@ -975,6 +1062,8 @@ October 2019 – Present).</p></li>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -1007,6 +1096,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
