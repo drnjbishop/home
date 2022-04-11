@@ -1,4 +1,16 @@
 ---
+title: "testcvpdf"
+output:
+  html_document:
+    df_print: paged
+date: '2022-04-01'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
 title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
