@@ -18,83 +18,62 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 
 ::: col-sm-6
+# Promoting health in aging populations
 
-# Promoting health in aging populations  
-
-&nbsp;
+ 
 
 ## Substantive expertise
 
-* Concurrent progression of complex chronic conditions
-  + Dementia and cognitive impairment
-  + Multimorbidity
-  + Mobility limitations
+-   Concurrent progression of complex chronic conditions
+    -   Dementia and cognitive impairment
+    -   Multimorbidity
+    -   Mobility limitations
+-   Identification of modifiable risk/protective factors
+    -   Comorbid chronic conditions
+    -   Dietary intake
+    -   Food insecurity
+-   Cohort trends in population health
 
-* Identification of modifiable risk/protective factors 
-  + Comorbid chronic conditions
-  + Dietary intake 
-  + Food insecurity
-
-* Cohort trends in population health
-
-&nbsp;
+ 
 
 ## Methodological expertise
 
-* Longitudinal modeling 
-  + Gaussian, logit, Poisson, ZIP/ZINB distributions 
-  + Growth modeling (latent and multilevel approaches)
-  + Change scores, first-order autoregression
-  + Survival analysis
+-   Longitudinal modeling
+    -   Gaussian, logit, Poisson, ZIP/ZINB distributions
+    -   Growth modeling (latent and multilevel approaches)
+    -   Change scores, first-order autoregression
+    -   Survival analysis
+-   Classification models
+    -   Latent class analysis
+-   Analysis of dynamic health data
+    -   Household clustered national probability samples
+    -   Non-random missing data (mortality selection)
+-   Toolkit
+    -   SAS (e.g., PROC SURVEYREG, PROC GLIMMIX, arrays/macros)
+    -   R (e.g., Tidyverse, ggplot2, RSiena)
+    -   Mplus
 
-* Classification models
-  + Latent class analysis
-
-* Analysis of dynamic health data 
-  + Household clustered national probability samples
-  + Non-random missing data (mortality selection)
-
-* Toolkit
-  + SAS (e.g., PROC SURVEYREG, PROC GLIMMIX, arrays/macros)
-  + R (e.g., Tidyverse, ggplot2, RSiena)
-  + Mplus
-  
-&nbsp; 
-
-&nbsp;
+ 
 
 ## Free access link to "Cohort trends in chronic disease burden and multimorbidity among aging US adults"
 
-<a href = "https://academic.oup.com/psychsocgerontology/advance-article/doi/10.1093/geronb/gbac070/6591182?guestAccessKey=759adb49-34af-47b7-9389-32bb301c2092" style="font-size: 16px;" >
-Bishop, N. J., Haas, S. A., & Quiñones, A. R. Cohort trends in chronic disease burden and multimorbidity among aging US adults. The Journals of Gerontology, Series B: Social Sciences. https://doi.org/10.1093/geronb/gbac070 </a>
-  
-&nbsp; 
+<a href = "https://academic.oup.com/psychsocgerontology/advance-article/doi/10.1093/geronb/gbac070/6591182?guestAccessKey=759adb49-34af-47b7-9389-32bb301c2092" style="font-size: 16px;" > Bishop, N. J., Haas, S. A., & Quiñones, A. R. Cohort trends in chronic disease burden and multimorbidity among aging US adults. *The Journals of Gerontology, Series B: Social Sciences*. https://doi.org/10.1093/geronb/gbac070 </a>
 
-&nbsp;
+  
 
-***
+------------------------------------------------------------------------
 
-<a href = "Email: bishop.nicholas.j@gmail.com" style="font-size: 16px;" >
-  Email: bishop.nicholas.j@gmail.com </a>
-  
-<a href = "https://github.com/drnjbishop/home/blob/f9cf7b4ccd3e0a695e0eaa62d7e83b9f937b7d84/docs/CV.pdf" style="font-size: 16px;" >
-  CV (PDF) </a>
-  
-<a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" >
-  Google Scholar </a>
-  
-<a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" style="font-size: 16px;" >
-  Twitter </a>
+<a href = "Email: bishop.nicholas.j@gmail.com" style="font-size: 16px;" > Email: bishop.nicholas.j\@gmail.com </a>
 
+<a href = "https://github.com/drnjbishop/home/blob/8ef275bfa9744a5b9a13bb53b607204b8991d862/docs/CV.pdf" style="font-size: 16px;" > CV (PDF) </a>
+
+<a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" > Google Scholar </a>
+
+<a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" style="font-size: 16px;" > Twitter </a>
 :::
 
 ::: col-sm-6
-
 <!-- <a href = "https://crumplab.github.io"> -->
 
 ![](images/mountain_2_opt.jpeg) </a>
 :::
-
-
-
-
