@@ -60,6 +60,16 @@ output: html_document
   + Mplus
   
 &nbsp; 
+
+&nbsp;
+
+## Free access link to "Cohort trends in chronic disease burden and multimorbidity among aging US adults"
+
+<a href = "https://academic.oup.com/psychsocgerontology/advance-article/doi/10.1093/geronb/gbac070/6591182?guestAccessKey=759adb49-34af-47b7-9389-32bb301c2092" style="font-size: 16px;" >
+Bishop, N. J., Haas, S. A., & Quiñones, A. R. Cohort trends in chronic disease burden and multimorbidity among aging US adults. The Journals of Gerontology, Series B: Social Sciences. https://doi.org/10.1093/geronb/gbac070 </a>
+  
+&nbsp; 
+
 &nbsp;
 
 ***

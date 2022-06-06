@@ -2,6 +2,8 @@
 title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
+  pdf_document:
+    latex_engine: pdflatex
   html_document:
     css: style.css
     toc: true
@@ -9,8 +11,6 @@ output:
     collapsed: false
     number_sections: false
     toc_depth: 2
-  pdf_document:
-    latex_engine: pdflatex
   word_document: default
 ---
 
@@ -112,17 +112,18 @@ Updated: March 25, 2022
 
 **Refereed Journal Articles (\*designates student author)**
 
-1.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. Cohort trends in chronic disease burden and multimorbidity among aging US adults. *The Journals of Gerontology, Series B: Social Sciences*. <https://doi.org/10.1093/geronb/gbac070> (Impact factor, 2020: 4.077).
+1.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2022). Cohort trends in chronic disease burden and multimorbidity among aging US adults. *The Journals of Gerontology, Series B: Social Sciences*. <https://doi.org/10.1093/geronb/gbac070> (Impact factor, 2020: 4.077).
 
-2.  Flynn, T.\*, Goble, P., **Bishop, N.**, & Weimer, A. Early childhood hospitalization and problematic behaviors: A propensity score analysis. Accepted at *Journal of Child Health Care*. [https://doi.org/10.1177/13674935221102707](https://doi.org/10.1177%2F13674935221102707) (Impact factor, 2021: 1.979).
+2.  Flynn, T.\*, Goble, P., **Bishop, N.**, & Weimer, A. (2022). Early childhood hospitalization and problematic behaviors: A propensity score analysis. Accepted at *Journal of Child Health Care*. [https://doi.org/10.1177/13674935221102707](https://doi.org/10.1177%2F13674935221102707) (Impact factor, 2021: 1.979).
 
-3.  **Bishop, N. J.**, & Zhu, J. A prospective cohort study of racial/ethnic variation in the association between 4-year change in cystatin C and dietary quality in older Americans. *British Journal of Nutrition*. <https://doi.org/10.1017/S0007114522001040> (Impact factor, 2020: 3.718).
+3.  **Bishop, N. J.**, & Zhu, J. (2022). A prospective cohort study of racial/ethnic variation in the association between 4-year change in cystatin C and dietary quality in older Americans. *British Journal of Nutrition*. <https://doi.org/10.1017/S0007114522001040> (Impact factor, 2020: 3.718).
 
-4.  Pan, X., Luo, Y., & **Bishop, N.** Cognitive function among non-custodial grandparents: Across- national perspective. *The International Journal of Aging and Human Development* (Accepted September 12, 2021; Impact factor, 2021: 2.224).
+4.  Pan, X., Luo, Y., & **Bishop, N.** (2022). Cognitive function among non-custodial grandparents: Across- national perspective. *The International Journal of Aging and Human Development*, *95*(1) , 18-41.
+    [https://doi.org/10.1177/00914150211050877](https://doi.org/10.1177%2F00914150211050877) (Impact factor, 2021: 2.224).
 
-5.  Tucker, J.\*, **Bishop, N. J.**, Wang, K., & Phillips, F. Marital transitions, change in depression, and quality of social relationships in aging U.S. adults: An analysis of the Health and Retirement Study. *The International Journal of Aging and Human Development* <https://doi.org/10.1177/00914150211066551> (Impact factor, 2021: 2.224).
+5.  Tucker, J.\*, **Bishop, N. J.**, Wang, K., & Phillips, F. (2021). Marital transitions, change in depression, and quality of social relationships in aging U.S. adults: An analysis of the Health and Retirement Study. *The International Journal of Aging and Human Development* <https://doi.org/10.1177/00914150211066551> (Impact factor, 2021: 2.224).
 
-6.  **Bishop, N. J.**, Ullevig, S., Wang, K., & Zuniga, K. E. Dietary quality modifies the association between multimorbidity and change in mobility limitations among older Americans. *Preventive Medicine*, *153*, 106721. <https://doi.org/10.1016/j.ypmed.2021.106721> (**Impact factor, 2021: 4.018**).
+6.  **Bishop, N. J.**, Ullevig, S., Wang, K., & Zuniga, K. E. (2021). Dietary quality modifies the association between multimorbidity and change in mobility limitations among older Americans. *Preventive Medicine*, *153*, 106721. <https://doi.org/10.1016/j.ypmed.2021.106721> (**Impact factor, 2021: 4.018**).
 
 7.  **Bishop, N. J.**, & Zuniga, K. E. (2021). Investigating walnut consumption and cognitive trajectories in a representative sample of older U.S. adults. *Public Health Nutrition, 24*(7), 1741-1752. <https://doi.org/10.1017/S1368980020001287> (Impact factor, 2019: 3.182).
 
