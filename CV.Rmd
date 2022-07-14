@@ -2,8 +2,6 @@
 title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
-  pdf_document:
-    latex_engine: pdflatex
   html_document:
     css: style.css
     toc: true
@@ -11,6 +9,8 @@ output:
     collapsed: false
     number_sections: false
     toc_depth: 2
+  pdf_document:
+    latex_engine: pdflatex
   word_document: default
 ---
 
@@ -26,15 +26,15 @@ output:
 
 ## **Dr. Nicholas J. Bishop**
 
-Assistant Professor
+Associate Professor
 
-Human Development and Family Sciences
+Family Studies & Human Development
 
-School of Family and Consumer Science
+Norton School of Family & Consumer Sciences
 
-Texas State University
+University of Arizona
 
-Updated: March 25, 2022
+Updated: July 14, 2022
 
 # **Academic/Professional Background**
 
@@ -48,9 +48,11 @@ Updated: March 25, 2022
 
 **University Experience**
 
--   Assistant Professor, Texas State University, 2016 -- Present
+-   Associate Professor, University of Arizona, 2022 -- present
 
--   Statistical Consultant, School of Family and Consumer Sciences, Texas State University, 2015 - Present
+-   Assistant Professor, Texas State University, 2016 -- 2022
+
+-   Statistical Consultant, School of Family and Consumer Sciences, Texas State University, 2015 -- 2022
 
 -   Clinical Assistant Professor, Texas State University, 2015 -- 2016
 
@@ -68,15 +70,15 @@ Updated: March 25, 2022
 
 **Relevant Professional Experience**
 
--   Arizona Vital Statistician, Arizona Department of Health Services, 2013-- 2014
+-   Arizona Vital Statistician, Arizona Department of Health Services, 2013 -- 2014
 
--   Interim Director of Accountability, Arizona Department of Education, 2012-- 2013
+-   Interim Director of Accountability, Arizona Department of Education, 2012 -- 2013
 
 -   Research Associate, Arizona Department of Education, 2012
 
 -   Senior Data Analyst, Behavior Data Systems, Ltd., 2011
 
--   Statistical Consultant, Behavior Data Systems, Ltd., 2008 --2011
+-   Statistical Consultant, Behavior Data Systems, Ltd., 2008 -- 2011
 
 # **Grants and Contracts**
 
@@ -118,8 +120,7 @@ Updated: March 25, 2022
 
 3.  **Bishop, N. J.**, & Zhu, J. (2022). A prospective cohort study of racial/ethnic variation in the association between 4-year change in cystatin C and dietary quality in older Americans. *British Journal of Nutrition*. <https://doi.org/10.1017/S0007114522001040> (Impact factor, 2020: 3.718).
 
-4.  Pan, X., Luo, Y., & **Bishop, N.** (2022). Cognitive function among non-custodial grandparents: Across- national perspective. *The International Journal of Aging and Human Development*, *95*(1) , 18-41.
-    [https://doi.org/10.1177/00914150211050877](https://doi.org/10.1177%2F00914150211050877) (Impact factor, 2021: 2.224).
+4.  Pan, X., Luo, Y., & **Bishop, N.** (2022). Cognitive function among non-custodial grandparents: Across- national perspective. *The International Journal of Aging and Human Development*, *95*(1) , 18-41. [https://doi.org/10.1177/00914150211050877](https://doi.org/10.1177%2F00914150211050877) (Impact factor, 2021: 2.224).
 
 5.  Tucker, J.\*, **Bishop, N. J.**, Wang, K., & Phillips, F. (2021). Marital transitions, change in depression, and quality of social relationships in aging U.S. adults: An analysis of the Health and Retirement Study. *The International Journal of Aging and Human Development* <https://doi.org/10.1177/00914150211066551> (Impact factor, 2021: 2.224).
 
@@ -161,14 +162,9 @@ Updated: March 25, 2022
 
 24. Haas, S. A., & **Bishop, N. J.** (2010). What do retrospective subjective reports of childhood health capture? Evidence from the Wisconsin Longitudinal Study. *Research on Aging*, *32*(6), 698-714. <https://doi.org/10.1177/0164027510379347> (Impact factor, 2010: 1.290).
 
-**Journal Articles Under Review**
+<!-- **Journal Articles Under Review** -->
 
-1.  Zambrano, P.\*, Perez-Brena, N., Duncan, J., **Bishop, N.**, Toews, M., & Barnett, M. Mother-father and parent-grandmother coparental conflict and involvement in adolescent parent families. Under review at *Journal of Family Psychology*, submitted March 18, 2022.
-
-**Journal Articles in Progress**
-
-1.  **Bishop, N. J.**, Haas, S. A, & Quiñones, A.R. Cohort effects in multimorbidity among older US adults: Differences by race/ethnicity and nativity. Abstract submitted to Gerontological Society of America annual meeting.
-
+<!-- 1.  Zambrano, P.\*, Perez-Brena, N., Duncan, J., **Bishop, N.**, Toews, M., & Barnett, M. Mother-father and parent-grandmother coparental conflict and involvement in adolescent parent families. Under review at *Journal of Family Psychology*, submitted March 18, 2022. -->
 **Non-refereed Articles**
 
 1.  Kronenfeld, J. J., Keith, V., **Bishop, N. J.**, & Ayers, S. (2010). Report of survey of sociologists with interests in mental health and medical sociology regarding health policy issues. *American Sociological Association Mental Health Section Newsletter*, *17*, 6-7.
