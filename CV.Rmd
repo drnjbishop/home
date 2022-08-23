@@ -2,6 +2,8 @@
 title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
+  pdf_document:
+    latex_engine: pdflatex
   html_document:
     css: style.css
     toc: true
@@ -9,8 +11,6 @@ output:
     collapsed: false
     number_sections: false
     toc_depth: 2
-  pdf_document:
-    latex_engine: pdflatex
   word_document: default
 ---
 

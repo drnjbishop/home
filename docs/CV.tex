@@ -33,13 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={Curriculum Vitae},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage[margin=1in]{geometry}
 \usepackage{graphicx}
 \makeatletter
@@ -55,8 +48,6 @@
 \def\fps@figure{htbp}
 \makeatother
 \usepackage[normalem]{ulem}
-% Avoid problems with \sout in headers with hyperref
-\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -64,6 +55,13 @@
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Curriculum Vitae},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{Curriculum Vitae}
 \author{}
@@ -84,7 +82,7 @@ Norton School of Family \& Consumer Sciences
 
 University of Arizona
 
-Updated: July 14, 2022
+Updated: August 23, 2022
 
 \hypertarget{academicprofessional-background}{%
 \section{\texorpdfstring{\textbf{Academic/Professional
@@ -721,8 +719,13 @@ Attended}
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
+  Media coverage of research. As of 08/23/22, 61 news outlets, 4 blogs,
+  22 tweets. ``Cohort Trends in the Burden of Multiple Chronic
+  Conditions among Aging U.S. Adults''.
+  \url{https://oxfordjournals.altmetric.com/details/129352660/news}
+\item
   Media coverage of research. verywellhealth.com. ``Walnuts May Support
-  Brain Function in Older Adults, Study Shows'' Published September 24,
+  Brain Function in Older Adults, Study Shows''. Published September 24,
   2020.
   \url{https://www.verywellhealth.com/walnut-consumption-supports-cognitive-function-5079159}
 \item
@@ -738,6 +741,16 @@ Attended}
 \section{\texorpdfstring{\textbf{Teaching}}{Teaching}}\label{teaching}}
 
 \textbf{Courses Taught}
+
+\emph{University of Arizona}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  FSHD 537A - Statistical Inference for the Social Sciences (1 section;
+  taught in-person).
+\end{enumerate}
 
 \emph{Texas State University (6 courses; 23 sections)}
 
