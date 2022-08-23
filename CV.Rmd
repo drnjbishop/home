@@ -165,6 +165,7 @@ Updated: July 14, 2022
 <!-- **Journal Articles Under Review** -->
 
 <!-- 1.  Zambrano, P.\*, Perez-Brena, N., Duncan, J., **Bishop, N.**, Toews, M., & Barnett, M. Mother-father and parent-grandmother coparental conflict and involvement in adolescent parent families. Under review at *Journal of Family Psychology*, submitted March 18, 2022. -->
+
 **Non-refereed Articles**
 
 1.  Kronenfeld, J. J., Keith, V., **Bishop, N. J.**, & Ayers, S. (2010). Report of survey of sociologists with interests in mental health and medical sociology regarding health policy issues. *American Sociological Association Mental Health Section Newsletter*, *17*, 6-7.
@@ -296,6 +297,10 @@ Updated: July 14, 2022
 # **Teaching**
 
 **Courses Taught**
+
+*University of Arizona*
+
+1.  FSHD 537A - Statistical Inference for the Social Sciences (1 section; taught in-person).
 
 *Texas State University (6 courses; 23 sections)*
 
