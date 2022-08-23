@@ -13,7 +13,7 @@
 
 <title>njb home</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -232,7 +240,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -276,9 +284,9 @@ $(document).ready(function () {
 </style>
 <div class="row" style="padding-top: 30px;">
 
-<div id="promoting-health-in-aging-populations"
+<div id="supporting-health-in-aging-populations"
 class="section level1 col-sm-6">
-<h1>Promoting health in aging populations</h1>
+<h1>Supporting health in aging populations</h1>
 <p> </p>
 <div id="substantive-expertise" class="section level2">
 <h2>Substantive expertise</h2>
@@ -341,7 +349,7 @@ https://doi.org/10.1093/geronb/gbac070 </a></p>
 <hr />
 <p><a href = "Email: njbishop@arizona.edu" style="font-size: 16px;" >
 Email: njbishop@arizona.edu </a></p>
-<p><a href = "https://github.com/drnjbishop/home/blob/7c43eb98cab0aac68a99f90690fe1e7ad0b039bf/CV.pdf" style="font-size: 16px;" >
+<p><a href = "https://github.com/drnjbishop/home/blob/2133471ce6c9b8f249745aed35484114614a4b27/docs/CV.pdf" style="font-size: 16px;" >
 CV (PDF) </a></p>
 <p><a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" >
 Google Scholar </a></p>
