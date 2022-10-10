@@ -1,2 +1,1 @@
-install.packages("tinytex")
-Y
+tinytex::install_tinytex()
