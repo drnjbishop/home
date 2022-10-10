@@ -65,7 +65,7 @@ output: html_document
 
 <a href = "Email: njbishop@arizona.edu" style="font-size: 16px;" > Email: njbishop\@arizona.edu </a>
 
-<a href = "https://github.com/drnjbishop/home/blob/ddd4c255ed83ae0121e78c2bc6e23b194333bf9b/docs/CV.pdf" style="font-size: 16px;" > CV (PDF) </a>
+<a href = "https://github.com/drnjbishop/home/blob/5ae3dac89d3ba10dbcc73cc46e46e1487e6066c6/docs/CV.pdf" style="font-size: 16px;" > CV (PDF) </a>
 
 <a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" > Google Scholar </a>
 
