@@ -114,7 +114,7 @@ Updated: October 10, 2022
 
 **Refereed Journal Articles (\*designates student author)**
 
-1.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2022). Cohort trends in chronic disease burden and multimorbidity among aging US adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences, 77*(10), 1867-1879. <https://doi.org/10.1093/geronb/gbac070> (Impact factor, 2022: 4.942; selected as Editor's Choice article for *The Journal of Gerontology: Social Sciences,* *77*(10)).
+1.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2022). Cohort trends in the burden of multiple chronic conditions among aging U.S. adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences, 77*(10), 1867-1879. <https://doi.org/10.1093/geronb/gbac070> (Impact factor, 2022: 4.942; selected as Editor's Choice article for *The Journal of Gerontology: Social Sciences,* *77*(10)).
 
 2.  Flynn, T.\*, Goble, P., **Bishop, N.**, & Weimer, A. (2022). Early childhood hospitalization and problematic behaviors: A propensity score analysis. Accepted at *Journal of Child Health Care*. [https://doi.org/10.1177/13674935221102707](https://doi.org/10.1177%2F13674935221102707) (Impact factor, 2021: 1.979).
 
