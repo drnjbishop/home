@@ -55,9 +55,9 @@ output: html_document
 
  
 
-## Free access link to "Cohort trends in chronic disease burden and multimorbidity among aging US adults"
+### Free access link to "Cohort trends in the burden of multiple chronic conditions among aging U.S. adults"
 
-<a href = "https://academic.oup.com/psychsocgerontology/advance-article/doi/10.1093/geronb/gbac070/6591182?guestAccessKey=759adb49-34af-47b7-9389-32bb301c2092" style="font-size: 16px;" > Bishop, N. J., Haas, S. A., & Quiñones, A. R. Cohort trends in chronic disease burden and multimorbidity among aging US adults. *The Journals of Gerontology, Series B: Social Sciences*. https://doi.org/10.1093/geronb/gbac070 </a>
+<a href = "https://academic.oup.com/psychsocgerontology/advance-article/doi/10.1093/geronb/gbac070/6591182?guestAccessKey=759adb49-34af-47b7-9389-32bb301c2092" style="font-size: 16px;" > Bishop, N. J., Haas, S. A., & Quiñones, A. R. Cohort trends in the burden of multiple chronic conditions among aging U.S. adult. *The Journals of Gerontology, Series B: Social Sciences*. https://doi.org/10.1093/geronb/gbac070 </a>
 
   
 
@@ -65,7 +65,7 @@ output: html_document
 
 <a href = "Email: njbishop@arizona.edu" style="font-size: 16px;" > Email: njbishop\@arizona.edu </a>
 
-<a href = "https://github.com/drnjbishop/home/blob/5ae3dac89d3ba10dbcc73cc46e46e1487e6066c6/docs/CV.pdf" style="font-size: 16px;" > CV (PDF) </a>
+<a href = "https://github.com/drnjbishop/home/blob/a732de77dd5694d168d6dc468fa5a95cfebbca3d/docs/CV.pdf" style="font-size: 16px;" > CV (PDF) </a>
 
 <a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" > Google Scholar </a>
 
