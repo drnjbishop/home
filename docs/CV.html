@@ -13,7 +13,7 @@
 
 <title>Curriculum Vitae</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -145,11 +145,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -359,7 +363,7 @@ div.tocify {
 <p>Family Studies &amp; Human Development</p>
 <p>Norton School of Family &amp; Consumer Sciences</p>
 <p>University of Arizona</p>
-<p>Updated: October 10, 2022</p>
+<p>Updated: January 12, 2023</p>
 </div>
 <div id="academicprofessional-background" class="section level1">
 <h1><strong>Academic/Professional Background</strong></h1>
@@ -691,6 +695,11 @@ class="uri">https://pub.azdhs.gov/health-stats/report/ahs/ahs2012/index.php</a><
 </ol>
 <p><strong>Papers Presented at Professional Meetings</strong></p>
 <ol style="list-style-type: decimal">
+<li><p><strong>Bishop, N. J.</strong>, Haas, S. A., &amp; Quiñones, A.
+R. (2022, November). <em>Cohort Effects in Multimorbidity among Older
+U.S. Adults: Differences by Race/ethnicity and Nativity</em>. Paper
+presented at the Gerontological Society of America’s annual meeting,
+virtual.</p></li>
 <li><p><strong>Bishop, N. J.</strong>, Haas, S. A., &amp; Quiñones, A.
 R. (2021, November). <em>Birth Cohort Differences in Multimorbidity
 Burden among Aging US Adults</em>. Paper presented at the Gerontological
