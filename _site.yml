@@ -5,5 +5,5 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "CV"
-      href: CV.html     
+      href: CV-public.html     
 output_dir: "docs"

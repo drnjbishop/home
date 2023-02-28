@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "Curriculum Vitae Complete"
 fontfamily: mathptmx
 output:
   pdf_document:
@@ -186,25 +186,27 @@ Updated: October 10, 2022
 
 **Papers Presented at Professional Meetings**
 
-1.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2021, November). *Birth Cohort Differences in Multimorbidity Burden among Aging US Adults*. Paper presented at the Gerontological Society of America's annual meeting, virtual.
+1.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2022, November). *Cohort Effects in Multimorbidity among Older U.S. Adults: Differences by Race/ethnicity and Nativity*. Paper presented at the Gerontological Society of America's annual meeting, Indianapolis, IN.
 
-2.  **Bishop, N. J.**, & Zhu, J. (2021, June). *Investigating Racial/Ethnic Disparities in the Association between AHEI 2010 and Change in Cystatin C in a Representative Sample of Older Americans*. Paper presented at the American Society of Nutrition virtual meeting, United States.
+2.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2021, November). *Birth Cohort Differences in Multimorbidity Burden among Aging US Adults*. Paper presented at the Gerontological Society of America's annual meeting, virtual.
 
-3.  Page, J. (Presenting)\*, Crixell, S. L., Markides, B. R.\*, **Bishop, N. J.**, & Biediger Friedman, L. M.(2017, April). *Comparison of Healthy Eating Index-2010 Scores of Preschool-Aged Children in a High-Risk Community to Those of an Age-Matched National Sample (NHANES 2009-2012)*. Paper presented at the Experimental Biology 2017 Conference.
+3.  **Bishop, N. J.**, & Zhu, J. (2021, June). *Investigating Racial/Ethnic Disparities in the Association between AHEI 2010 and Change in Cystatin C in a Representative Sample of Older Americans*. Paper presented at the American Society of Nutrition virtual meeting, United States.
 
-4.  **Bishop, N. J.** (2011, March). *Examining Socioeconomic Variation in the Co-Evolution of Cognitive Decline and Functional Limitations among the Oldest Old*. Paper Presented at the Population Association of America's annual meeting.
+4.  Page, J. (Presenting)\*, Crixell, S. L., Markides, B. R.\*, **Bishop, N. J.**, & Biediger Friedman, L. M.(2017, April). *Comparison of Healthy Eating Index-2010 Scores of Preschool-Aged Children in a High-Risk Community to Those of an Age-Matched National Sample (NHANES 2009-2012)*. Paper presented at the Experimental Biology 2017 Conference.
 
-5.  **Bishop, N. J.** (2010, April). *Exploring Disparities in the Cognitive Functioning of Older Americans Using Growth Curve Selection Modeling: Do Health Behaviors Play a Role?* Paper presented at the Population Association of America's annual meeting
+5.  **Bishop, N. J.** (2011, March). *Examining Socioeconomic Variation in the Co-Evolution of Cognitive Decline and Functional Limitations among the Oldest Old*. Paper Presented at the Population Association of America's annual meeting.
 
-6.  **Bishop, N. J.**, & Haas, S. A. (2009, April). *The Influence of Access: Longitudinal BMI Change and Socioeconomic Status in the Health and Retirement Study,1992-2006.* Paper presented at the Population Association of America's annual meeting.
+6.  **Bishop, N. J.** (2010, April). *Exploring Disparities in the Cognitive Functioning of Older Americans Using Growth Curve Selection Modeling: Do Health Behaviors Play a Role?* Paper presented at the Population Association of America's annual meeting
 
-7.  Haas, S. A., & **Bishop, N. J.** (2009, April). *What Do Retrospective Subjective Reports of Childhood Health Capture? Evidence from the WLS and the PSID*. Paper presented at the Population Association of America's annual meeting.
+7.  **Bishop, N. J.**, & Haas, S. A. (2009, April). *The Influence of Access: Longitudinal BMI Change and Socioeconomic Status in the Health and Retirement Study,1992-2006.* Paper presented at the Population Association of America's annual meeting.
 
-8.  **Bishop, N. J.** (2008, April). *Stretch to Fit: Yoga and the Contemporary Health Lifestyle*. Paper presented at the Pacific Sociological Association's annual meeting.
+8.  Haas, S. A., & **Bishop, N. J.** (2009, April). *What Do Retrospective Subjective Reports of Childhood Health Capture? Evidence from the WLS and the PSID*. Paper presented at the Population Association of America's annual meeting.
 
-9.  **Bishop, N. J.** (2007, April) *Variations on Gender Modeling in the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
+9.  **Bishop, N. J.** (2008, April). *Stretch to Fit: Yoga and the Contemporary Health Lifestyle*. Paper presented at the Pacific Sociological Association's annual meeting.
 
-10. **Bishop, N. J.** (2005, April), *Kick It up a Notch: Masculinity, Hierarchy and the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
+10. **Bishop, N. J.** (2007, April) *Variations on Gender Modeling in the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
+
+11. **Bishop, N. J.** (2005, April), *Kick It up a Notch: Masculinity, Hierarchy and the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
 
 **Posters Presented at Professional Meetings**
 
@@ -290,7 +292,7 @@ Updated: October 10, 2022
 
 **Press Coverage**
 
-1.  Media coverage of research. As of 08/23/22, 61 news outlets, 4 blogs, 22 tweets. "Cohort Trends in the Burden of Multiple Chronic Conditions among Aging U.S. Adults". <https://oxfordjournals.altmetric.com/details/129352660/news>
+1.  Media coverage of research. As of 02/28/2023, 61 news outlets, 4 blogs, 23 tweets. "Cohort Trends in the Burden of Multiple Chronic Conditions among Aging U.S. Adults". <https://oxfordjournals.altmetric.com/details/129352660/news>
 
 2.  Media coverage of research. verywellhealth.com. "Walnuts May Support Brain Function in Older Adults, Study Shows". Published September 24, 2020. <https://www.verywellhealth.com/walnut-consumption-supports-cognitive-function-5079159>
 
@@ -300,9 +302,10 @@ Updated: October 10, 2022
 
 **Courses Taught**
 
-*University of Arizona*
+*University of Arizona (2 courses; 2 sections)*
 
-1.  FSHD 537A - Statistical Inference for the Social Sciences (1 section; taught in-person).
+1.  FSHD 617A - Structural Equation Modeling (1 section; taught in-person).
+2.  FSHD 537A - Statistical Inference for the Social Sciences (1 section; taught in-person).
 
 *Texas State University (6 courses; 23 sections)*
 
@@ -382,13 +385,13 @@ Updated: October 10, 2022
 
 1.  Journal of Nutrition in Gerontology and Geriatrics (September 2020 -- Present).
 
-*Reviewer/Referee (10)*
+*Reviewer/Referee*
 
 1.  BMC Geriatrics (2021).
 
 2.  The Lancet Planetary Health (2021).
 
-3.  Journal of Nutrition in Gerontology and Geriatrics (2020, 2021).
+3.  Journal of Nutrition in Gerontology and Geriatrics (2020-2023).
 
 4.  Nutritional Neuroscience (2020).
 
