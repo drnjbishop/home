@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae Complete"
+title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
   pdf_document:
