@@ -13,7 +13,7 @@
 
 <title>njb home</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -344,8 +348,6 @@ https://doi.org/10.1093/geronb/gbac070 </a></p>
 <hr />
 <p><a href = "Email: njbishop@arizona.edu" style="font-size: 16px;" >
 Email: njbishop@arizona.edu </a></p>
-<p><a href = "https://github.com/drnjbishop/home/blob/a732de77dd5694d168d6dc468fa5a95cfebbca3d/docs/CV.pdf" style="font-size: 16px;" >
-CV (PDF) </a></p>
 <p><a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" >
 Google Scholar </a></p>
 <p><a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" style="font-size: 16px;" >
