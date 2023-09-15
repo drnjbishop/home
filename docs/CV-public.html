@@ -11,9 +11,9 @@
 
 
 
-<title>Curriculum Vitae Complete</title>
+<title>Curriculum Vitae</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -29,7 +29,7 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
@@ -145,11 +145,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -178,8 +182,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +191,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -326,7 +323,7 @@ div.tocify {
   <a href="index.html">Home</a>
 </li>
 <li>
-  <a href="CV.html">CV</a>
+  <a href="CV-public.html">CV</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -340,7 +337,7 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Curriculum Vitae Complete</h1>
+<h1 class="title toc-ignore">Curriculum Vitae</h1>
 
 </div>
 
@@ -359,7 +356,7 @@ div.tocify {
 <p>Family Studies &amp; Human Development</p>
 <p>Norton School of Family &amp; Consumer Sciences</p>
 <p>University of Arizona</p>
-<p>Updated: February 28, 2023</p>
+<p>Updated: September 15, 2023</p>
 </div>
 <div id="academicprofessional-background" class="section level1">
 <h1><strong>Academic/Professional Background</strong></h1>
@@ -416,6 +413,10 @@ Investigating Egg Consumption, Choline and Lutein Intake, Age, and
 Changes in Cognitive Health in a Nationally Representative Sample of
 Older Adults. Funder: Egg Nutrition Center, $34,665. (Submitted: May 1,
 2017, Funded: February 1, 2018 - August 31, 2018).</p></li>
+<li><p>Quiñones, A. R. (PI), <strong>Bishop, N. J.</strong> (Co-I).
+Multimorbidity Combinations and Dementia Onset among Race/Ethnic Older
+Adults (MEMORABLE). Funder: National Institute on Aging, $106,231
+supporting Co-I subcontract; $3,634,165 total.</p></li>
 </ol>
 <p><strong>Funded Internal Grants and Contracts</strong></p>
 <ol style="list-style-type: decimal">
@@ -980,6 +981,8 @@ Present).</li>
 </ol>
 <p><em>Reviewer/Referee</em></p>
 <ol style="list-style-type: decimal">
+<li><p>American Journal of Epidemiology (2023).</p></li>
+<li><p>Preventive Medicine (2023).</p></li>
 <li><p>BMC Geriatrics (2021).</p></li>
 <li><p>The Lancet Planetary Health (2021).</p></li>
 <li><p>Journal of Nutrition in Gerontology and Geriatrics
@@ -998,9 +1001,9 @@ Present).</li>
 </ol>
 <p><strong>Organization Memberships</strong></p>
 <ol style="list-style-type: decimal">
-<li><p>American Society of Nutrition (March 2019 – Present).</p></li>
 <li><p>Gerontological Society of America (November 2017 – November 2018,
 October 2019 – Present).</p></li>
+<li><p>American Society of Nutrition (March 2019 – July 2022).</p></li>
 <li><p>Population Association of America (April 2009 – April 2011; April
 2018 – April 2019).</p></li>
 <li><p>American Public Health Association (November 2016 – November
@@ -1012,7 +1015,7 @@ October 2019 – Present).</p></li>
 </ol>
 <p><strong>Community Service</strong></p>
 <ol style="list-style-type: decimal">
-<li>Meals on Wheels, delivery driver (August 2019 – Present).</li>
+<li>Meals on Wheels, delivery driver (August 2019 – July 2022).</li>
 </ol>
 </div>
 
