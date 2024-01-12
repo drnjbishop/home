@@ -50,7 +50,7 @@ output: html_document
     -   Non-random missing data (mortality selection)
 -   Toolkit
     -   SAS (e.g., PROC SURVEYREG, PROC GLIMMIX, arrays/macros)
-    -   R (e.g., Tidyverse, ggplot2, RSiena)
+    -   R (e.g., Tidyverse, ggplot2, glmmTMB)
     -   Mplus
 
  
