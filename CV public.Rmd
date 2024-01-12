@@ -2,7 +2,10 @@
 title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
-  pdf_document: default
+  pdf_document: 
+  default:
+    toc: true
+    toc_depth: 2
   html_document:
     css: style.css
     toc: yes
@@ -10,10 +13,7 @@ output:
     collapsed: no
     number_sections: no
     toc_depth: 2
-  #   toc: yes
-  #   toc_depth: '2'
   word_document: default
-  # pdf_document:
 ---
 
 ```{=html}
@@ -24,6 +24,11 @@ output:
 
 </style>
 ```
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
 <div class="row" style="padding-top: 30px;">
 
 ## **Dr. Nicholas J. Bishop**
