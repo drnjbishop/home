@@ -33,15 +33,15 @@ output: html_document
     -   Dietary intake
     -   Food insecurity
 -   Cohort trends in population health
+-   Cross-national comparisons
 
  
 
 ## Methodological expertise
 
 -   Longitudinal modeling
-    -   Gaussian, logit, Poisson, ZIP/ZINB distributions
     -   Growth modeling (latent and multilevel approaches)
-    -   Change scores, first-order autoregression
+    -   Gaussian, logit, Poisson, ZIP/ZINB distributions
     -   Survival analysis
 -   Classification models
     -   Latent class analysis
@@ -49,8 +49,8 @@ output: html_document
     -   Household clustered national probability samples
     -   Non-random missing data (mortality selection)
 -   Toolkit
+    -   R (e.g., Tidyverse, ggplot2, glmmTMB, lavaan)
     -   SAS (e.g., PROC SURVEYREG, PROC GLIMMIX, arrays/macros)
-    -   R (e.g., Tidyverse, ggplot2, glmmTMB)
     -   Mplus
 
  
