@@ -32,10 +32,7 @@ output: html_document
     -   Comorbid chronic conditions
     -   Dietary intake
     -   Food insecurity
--   Cohort trends in population health
--   Cross-national comparisons
-
- 
+-   Cohort trends in population health 
 
 ## Methodological expertise
 
