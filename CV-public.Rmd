@@ -42,7 +42,7 @@ Faculty Affiliate, School of Sociology
 
 University of Arizona
 
-Updated: May 7, 2024
+Updated: August 29, 2024
 
 # **Academic/Professional Background**
 
@@ -112,9 +112,9 @@ Updated: May 7, 2024
 
 **Refereed Journal Articles (\*designates student author)**
 
-1.  **Bishop, N. J.**†, Nagel, C.†, Botoseneanu, A., Allore, H., Newsom, J. T., Dorr, D., & Quiñones, A. R. (2023, November). Recommendations on methods for assessing multimorbidity changes over time: Aligning the method to the purpose. *Journal of Gerontology: Medical Sciences*. Accepted April 26, 2024. †Bishop and Nagel co-first authorship.
+1.  Nagel, C.†, **Bishop, N. J.**†, Botoseneanu, A., Allore, H., Newsom, J. T., Dorr, D., & Quiñones, A. R. (2024, July). Recommendations on methods for assessing multimorbidity changes over time: Aligning the method to the purpose. *Journal of Gerontology: Medical Sciences*. *79*(7). <https://doi.org/10.1093/gerona/glae122>. (impact factor, 2023: 4.3). †Bishop and Nagel co-first authorship.
 
-2.  Zambrano, P.\*, Perez-Brena, N., Duncan, J., **Bishop, N.**, Toews, M., & Barnett, M. (2023). Mother-father and parent-grandmother coparental conflict and involvement in adolescent parent families. *Journal of Family Psychology,* <https://doi.org/10.1177/02654075231221832> (Impact factor, 2022: 2.8).
+2.  Zambrano, P.\*, Perez-Brena, N., Duncan, J., **Bishop, N.**, Toews, M., & Barnett, M. (2024). Mother-father and parent-grandmother coparental conflict and involvement in adolescent parent families. *Journal of Social and Personal Relationships, 41*(6)*, 1370-1392.* <https://doi.org/10.1177/02654075231221832> (Impact factor, 2022: 2.8).
 
 3.  **Bishop, N. J.**, & Zhu, J. (2023). A prospective cohort study of racial/ethnic variation in the association between 4-year change in cystatin C and dietary quality in older Americans. *British Journal of Nutrition*, *129*, 312-323. <https://doi.org/10.1017/S0007114522001040> (Impact factor, 2020: 3.718).
 
@@ -322,6 +322,7 @@ Updated: May 7, 2024
 
 1.  FSHD 617A - Structural Equation Modeling (1 section; taught in-person).
 2.  FSHD 537A - Statistical Inference for the Social Sciences (1 section; taught in-person).
+3.  HDFS 536 - Introductory Graduate Statistics (1 section; taught in person).
 
 *Texas State University (6 courses; 23 sections)*
 
@@ -380,31 +381,35 @@ Updated: May 7, 2024
 
 *Reviewer/Referee*
 
-1.  The Lancet Public Health (2024).
+1.  Journals of Gerontology: Biological Sciences (2024).
 
-2.  American Journal of Epidemiology (2023).
+2.  Age and Ageing (2024).
 
-3.  Preventive Medicine (2023).
+3.  The Lancet Public Health (2024).
 
-4.  BMC Geriatrics (2021).
+4.  American Journal of Epidemiology (2023).
 
-5.  The Lancet Planetary Health (2021).
+5.  Preventive Medicine (2023).
 
-6.  Journal of Nutrition in Gerontology and Geriatrics (2020-2023).
+6.  BMC Geriatrics (2021).
 
-7.  Nutritional Neuroscience (2020).
+7.  The Lancet Planetary Health (2021).
 
-8.  Journal of the American College of Nutrition (2019).
+8.  Journal of Nutrition in Gerontology and Geriatrics (2020-2024).
 
-9.  Social Science & Medicine (2019).
+9.  Nutritional Neuroscience (2020).
 
-10. Demography (2013, 2019).
+10. Journal of the American College of Nutrition (2019).
 
-11. American Journal of Public Health (2016, 2018).
+11. Social Science & Medicine (2019, 2024).
 
-12. Journal of Aging and Health (2016, 2018).
+12. Demography (2013, 2019).
 
-13. Journal of Gerontology: Social Sciences (2012).
+13. American Journal of Public Health (2016, 2018).
+
+14. Journal of Aging and Health (2016, 2018).
+
+15. Journal of Gerontology: Social Sciences (2012).
 
 *Invited reviewer*
 
@@ -426,4 +431,6 @@ Updated: May 7, 2024
 
 **Community Service**
 
-1.  Meals on Wheels, delivery driver (August 2019 -- July 2022).
+1.  Community Food Bank of Southern Arizona, food distribution volunteer (June 2024).
+2.  Humane Borders, water run volunteer (June 2024).
+3.  Meals on Wheels, delivery driver (August 2019 -- July 2022).
