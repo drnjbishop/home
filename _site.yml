@@ -6,6 +6,4 @@ navbar:
       href: index.html
     - text: "CV"
       href: CV-public.html
-    - text: "Tutorial test"
-      href: tutorial_1_markdown.html
 output_dir: "docs"
