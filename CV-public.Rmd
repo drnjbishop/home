@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
-  pdf_document: default
+  word_document: default
   default:
     toc: true
     toc_depth: 2
@@ -13,7 +13,7 @@ output:
     collapsed: no
     number_sections: no
     toc_depth: 2
-  word_document: default
+  pdf_document: default
 ---
 
 ```{=html}
@@ -24,12 +24,12 @@ output:
 
 </style>
 ```
+
 ```{r, include=FALSE}
 options(tinytex.verbose = TRUE)
 ```
 
-<div class="row" style="padding-top: 30px;">
-
+::: {.row style="padding-top: 30px;"}
 ## **Dr. Nicholas J. Bishop**
 
 Associate Professor
@@ -38,11 +38,11 @@ Human Development and Family Science
 
 Norton School of Family & Consumer Sciences
 
-Faculty Affiliate, School of Sociology
+Faculty Affiliate (by courtesy), School of Sociology
 
 University of Arizona
 
-Updated: August 29, 2024
+Updated: February 24, 2025
 
 # **Academic/Professional Background**
 
@@ -112,57 +112,61 @@ Updated: August 29, 2024
 
 **Refereed Journal Articles (\*designates student author)**
 
-1.  Nagel, C.†, **Bishop, N. J.**†, Botoseneanu, A., Allore, H., Newsom, J. T., Dorr, D., & Quiñones, A. R. (2024, July). Recommendations on methods for assessing multimorbidity changes over time: Aligning the method to the purpose. *Journal of Gerontology: Medical Sciences*. *79*(7). <https://doi.org/10.1093/gerona/glae122>. (impact factor, 2023: 4.3). †Bishop and Nagel co-first authorship.
+1.  **Bishop, N.J.**, Botoseneanu, A., Newsom, J.T., Allore, H.G., Nagel, C.L., Markwardt, S., Samper-Ternent, R., & Quiñones, A.R. (2025). Multimorbidity patterns and cognitive change among Mexican older adults: Findings from the Mexican Health and Aging Study. *Journal of Global Ageing*. Published online ahead of print. <https://doi.org/10.1332/29767202Y2024D000000019>.
 
-2.  Zambrano, P.\*, Perez-Brena, N., Duncan, J., **Bishop, N.**, Toews, M., & Barnett, M. (2024). Mother-father and parent-grandmother coparental conflict and involvement in adolescent parent families. *Journal of Social and Personal Relationships, 41*(6)*, 1370-1392.* <https://doi.org/10.1177/02654075231221832> (Impact factor, 2022: 2.8).
+2.  **Bishop N.J.**, Nagel C., & Quiñones, A.R. (2024). Exploring perceived limitations to daily activities due to chronic conditions: A person-centered approach to measuring multimorbidity severity. *The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences.* 79(12), glae239. <https://doi.org/10.1093/gerona/glae239>.
 
-3.  **Bishop, N. J.**, & Zhu, J. (2023). A prospective cohort study of racial/ethnic variation in the association between 4-year change in cystatin C and dietary quality in older Americans. *British Journal of Nutrition*, *129*, 312-323. <https://doi.org/10.1017/S0007114522001040> (Impact factor, 2020: 3.718).
+3.  Nagel, C.†, **Bishop, N. J.**†, Botoseneanu, A., Allore, H., Newsom, J. T., Dorr, D., & Quiñones, A. R. (2024, July). Recommendations on methods for assessing multimorbidity changes over time: Aligning the method to the purpose. *Journal of Gerontology: Medical Sciences*. *79*(7). <https://doi.org/10.1093/gerona/glae122>. (impact factor, 2023: 4.3). †Denotes co-first authorship.
 
-4.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2022). Cohort trends in the burden of multiple chronic conditions among aging U.S. adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences, 77*(10), 1867-1879. <https://doi.org/10.1093/geronb/gbac070> (Impact factor, 2022: 4.942; selected as Editor's Choice article for *The Journal of Gerontology: Social Sciences,* *77*(10)).
+4.  Zambrano, P.\*, Perez-Brena, N., Duncan, J., **Bishop, N.**, Toews, M., & Barnett, M. (2024). Mother-father and parent-grandmother coparental conflict and involvement in adolescent parent families. *Journal of Social and Personal Relationships, 41*(6)*, 1370-1392.* <https://doi.org/10.1177/02654075231221832> (Impact factor, 2022: 2.8). Awarded best new professional research article reward, National Council on Family Relations and Men in Families Focus Group, 2024.
 
-5.  Flynn, T.\*, Goble, P., **Bishop, N.**, & Weimer, A. (2022). Early childhood hospitalization and problematic behaviors: A propensity score analysis. Accepted at *Journal of Child Health Care*. [https://doi.org/10.1177/13674935221102707](https://doi.org/10.1177%2F13674935221102707) (Impact factor, 2021: 1.979).
+5.  **Bishop, N. J.**, & Zhu, J. (2023). A prospective cohort study of racial/ethnic variation in the association between 4-year change in cystatin C and dietary quality in older Americans. *British Journal of Nutrition*, *129*, 312-323. <https://doi.org/10.1017/S0007114522001040> (Impact factor, 2020: 3.718).
 
-6.  Pan, X., Luo, Y., & **Bishop, N.** (2022). Cognitive function among non-custodial grandparents: Across- national perspective. *The International Journal of Aging and Human Development*, *95*(1) , 18-41. [https://doi.org/10.1177/00914150211050877](https://doi.org/10.1177%2F00914150211050877) (Impact factor, 2021: 2.224).
+6.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2022). Cohort trends in the burden of multiple chronic conditions among aging U.S. adults. *The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences, 77*(10), 1867-1879. <https://doi.org/10.1093/geronb/gbac070> (Impact factor, 2022: 4.942; selected as Editor's Choice article for *The Journal of Gerontology: Social Sciences,* *77*(10)).
 
-7.  Tucker, J.\*, **Bishop, N. J.**, Wang, K., & Phillips, F. (2021). Marital transitions, change in depression, and quality of social relationships in aging U.S. adults: An analysis of the Health and Retirement Study. *The International Journal of Aging and Human Development* <https://doi.org/10.1177/00914150211066551> (Impact factor, 2021: 2.224).
+7.  Flynn, T.\*, Goble, P., **Bishop, N.**, & Weimer, A. (2022). Early childhood hospitalization and problematic behaviors: A propensity score analysis. Accepted at *Journal of Child Health Care*. [https://doi.org/10.1177/13674935221102707](https://doi.org/10.1177%2F13674935221102707) (Impact factor, 2021: 1.979).
 
-8.  **Bishop, N. J.**, Ullevig, S., Wang, K., & Zuniga, K. E. (2021). Dietary quality modifies the association between multimorbidity and change in mobility limitations among older Americans. *Preventive Medicine*, *153*, 106721. <https://doi.org/10.1016/j.ypmed.2021.106721> (**Impact factor, 2021: 4.018**).
+8.  Pan, X., Luo, Y., & **Bishop, N.** (2022). Cognitive function among non-custodial grandparents: Across- national perspective. *The International Journal of Aging and Human Development*, *95*(1) , 18-41. [https://doi.org/10.1177/00914150211050877](https://doi.org/10.1177%2F00914150211050877) (Impact factor, 2021: 2.224).
 
-9.  **Bishop, N. J.**, & Zuniga, K. E. (2021). Investigating walnut consumption and cognitive trajectories in a representative sample of older U.S. adults. *Public Health Nutrition, 24*(7), 1741-1752. <https://doi.org/10.1017/S1368980020001287> (Impact factor, 2019: 3.182).
+9.  Tucker, J.\*, **Bishop, N. J.**, Wang, K., & Phillips, F. (2021). Marital transitions, change in depression, and quality of social relationships in aging U.S. adults: An analysis of the Health and Retirement Study. *The International Journal of Aging and Human Development* <https://doi.org/10.1177/00914150211066551> (Impact factor, 2021: 2.224).
 
-10. Zuniga, K. E., **Bishop, N. J.**, & Turner, A. S.\* (2021). Dietary lutein and zeaxanthin are associated with working memory in an older adult population. *Public Health Nutrition*, *24*(7), 1708-1715. <https://doi.org/10.1017/S1368980019005020> (Impact factor, 2019: 3.182).
+10. **Bishop, N. J.**, Ullevig, S., Wang, K., & Zuniga, K. E. (2021). Dietary quality modifies the association between multimorbidity and change in mobility limitations among older Americans. *Preventive Medicine*, *153*, 106721. <https://doi.org/10.1016/j.ypmed.2021.106721> (**Impact factor, 2021: 4.018**).
 
-11. Wang, K., Gao, X., Sun, F., & **Bishop, N.** (2020). Health literacy and caregiver burden among Chinese caregivers of older adults with cognitive impairment: Does education matter? *Journal of Applied Gerontology*. <https://doi.org/10.1177%2F0733464820957151> (Impact factor, 2019: 2.144).
+11. **Bishop, N. J.**, & Zuniga, K. E. (2021). Investigating walnut consumption and cognitive trajectories in a representative sample of older U.S. adults. *Public Health Nutrition, 24*(7), 1741-1752. <https://doi.org/10.1017/S1368980020001287> (Impact factor, 2019: 3.182).
 
-12. Hegde, A. L., & **Bishop, N. J.** (2020). Simulation and reflective experience: An effective teaching strategy to sensitize interior design students to the visual needs of older adults and the visually impaired. *Design & Communication in Higher Education*, *19*(1), 33-49. <https://doi.org/10.1386/adch_00012_1> (Impact factor, 2018: 0.41).
+12. Zuniga, K. E., **Bishop, N. J.**, & Turner, A. S.\* (2021). Dietary lutein and zeaxanthin are associated with working memory in an older adult population. *Public Health Nutrition*, *24*(7), 1708-1715. <https://doi.org/10.1017/S1368980019005020> (Impact factor, 2019: 3.182).
 
-13. Wang, K., Xie, Y., Wang, D., **Bishop, N. J.**, Tooker, E.\*, & Li, Z. (2020). Socioeconomic correlates of adherence to mineral intake recommendations among pregnant women in north China: Findings from a cohort in Hebei Province. *Asia Pacific Journal of Clinical Nutrition*, *29*(1), 127-135. <https://pubmed.ncbi.nlm.nih.gov/32229451/> (Impact factor: NA).
+13. Wang, K., Gao, X., Sun, F., & **Bishop, N.** (2020). Health literacy and caregiver burden among Chinese caregivers of older adults with cognitive impairment: Does education matter? *Journal of Applied Gerontology*. <https://doi.org/10.1177%2F0733464820957151> (Impact factor, 2019: 2.144).
 
-14. Wang, K., & **Bishop, N. J.** (2019). Social support and monetary resources as protective factors against food insecurity among older Americans: Findings from the Health and Retirement Study. *Food Security, 11*(4), 929-939. <https://doi.org/10.1007/s12571-019-00945-8> (Impact factor, 2019: 2.095).
+14. Hegde, A. L., & **Bishop, N. J.** (2020). Simulation and reflective experience: An effective teaching strategy to sensitize interior design students to the visual needs of older adults and the visually impaired. *Design & Communication in Higher Education*, *19*(1), 33-49. <https://doi.org/10.1386/adch_00012_1> (Impact factor, 2018: 0.41).
 
-15. **Bishop, N. J.**, Zuniga, K. E., & Ramirez, C. M.\* (2019). Latent profile analysis of dietary intake in a representative sample of older Americans. *Public Health Nutrition, 23*(2), 243-253. <https://doi.org/10.1017/S1368980019001496> (Impact factor, 2019: 3.182).
+15. Wang, K., Xie, Y., Wang, D., **Bishop, N. J.**, Tooker, E.\*, & Li, Z. (2020). Socioeconomic correlates of adherence to mineral intake recommendations among pregnant women in north China: Findings from a cohort in Hebei Province. *Asia Pacific Journal of Clinical Nutrition*, *29*(1), 127-135. <https://pubmed.ncbi.nlm.nih.gov/32229451/> (Impact factor: NA).
 
-16. **Bishop, N. J.**, & Zuniga, K. E. (2019). Egg consumption, multi-domain cognitive performance, and short-term cognitive change in a representative sample of older U.S. Adults. *Journal of the American College of Nutrition*, *38*(6)*,* 537-546. <https://doi.org/10.1080/07315724.2019.1566035> (Impact factor, 2019: 2.297).
+16. Wang, K., & **Bishop, N. J.** (2019). Social support and monetary resources as protective factors against food insecurity among older Americans: Findings from the Health and Retirement Study. *Food Security, 11*(4), 929-939. <https://doi.org/10.1007/s12571-019-00945-8> (Impact factor, 2019: 2.095).
 
-17. **Bishop, N. J.**, & Wang, K. (2018). Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study. *Preventive Medicine, 114*, 180-187. <https://doi.org/10.1016/j.ypmed.2018.07.001> (Impact factor, 2018: 3.449).
+17. **Bishop, N. J.**, Zuniga, K. E., & Ramirez, C. M.\* (2019). Latent profile analysis of dietary intake in a representative sample of older Americans. *Public Health Nutrition, 23*(2), 243-253. <https://doi.org/10.1017/S1368980019001496> (Impact factor, 2019: 3.182).
 
-18. Zuniga, K., & **Bishop, N. J.** (2018). Recent cancer treatment and memory decline in older adults: An analysis of the 2002-2012 Health and Retirement Study. *Journal of Geriatric Oncology*, *9*(3), 186-193. <https://doi.org/10.1016/j.jgo.2017.10.004> (Impact factor, 2018: 3.164).
+18. **Bishop, N. J.**, & Zuniga, K. E. (2019). Egg consumption, multi-domain cognitive performance, and short-term cognitive change in a representative sample of older U.S. Adults. *Journal of the American College of Nutrition*, *38*(6)*,* 537-546. <https://doi.org/10.1080/07315724.2019.1566035> (Impact factor, 2019: 2.297).
 
-19. Crixell, S. L., Markides, B. R.\*, Biediger-Friedman, L. M., **Bishop, N. J.**, & Reat, A. M.\* (2018). Designing a WIC app to improve health behaviors: A latent class analysis. *Journal of Mobile Technology in Medicine*, *7*(3), 7-16. <http://dx.doi.org/10.7309/jmtm.7.2.2> (Impact factor: NA).
+19. **Bishop, N. J.**, & Wang, K. (2018). Food insecurity, comorbidity, and mobility limitations among older U.S. adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study. *Preventive Medicine, 114*, 180-187. <https://doi.org/10.1016/j.ypmed.2018.07.001> (Impact factor, 2018: 3.449).
 
-20. Hegde, A. L., & **Bishop, N. J.** (2018). Saturation based color appearance of objects: A comparison between healthy elderly, young adults, and young adults wearing goggles simulating cataract. *Building and Environment*, *127*, 148-156. <https://doi.org/10.1016/j.buildenv.2017.11.007> (Impact factor, 2018: 4.820).
+20. Zuniga, K., & **Bishop, N. J.** (2018). Recent cancer treatment and memory decline in older adults: An analysis of the 2002-2012 Health and Retirement Study. *Journal of Geriatric Oncology*, *9*(3), 186-193. <https://doi.org/10.1016/j.jgo.2017.10.004> (Impact factor, 2018: 3.164).
 
-21. **Bishop, N. J.**, Zuniga, K. E., & Lucht, A.\* (2018). Latent profiles of macronutrient density and their association with mobility limitations in an observational longitudinal study of older U.S. adults. *The Journal of Nutrition, Health, & Aging*, *22*(6), 645-654. <https://doi.org/10.1007/s12603-017-0986-0> (Impact factor, 2018: 2.660).
+21. Crixell, S. L., Markides, B. R.\*, Biediger-Friedman, L. M., **Bishop, N. J.**, & Reat, A. M.\* (2018). Designing a WIC app to improve health behaviors: A latent class analysis. *Journal of Mobile Technology in Medicine*, *7*(3), 7-16. <http://dx.doi.org/10.7309/jmtm.7.2.2> (Impact factor: NA).
 
-22. **Bishop, N. J.**, Eggum-Wilkens, N. D., Haas, S. A., & Kronenfeld, J. J. (2016). Estimating the co-development of cognitive decline and physical mobility limitations in older U.S. adults. *Demography*, *53*(2), 337-364. <https://doi.org/10.1007/s13524-016-0458-x> (Impact factor, 2016: 2.802).
+22. Hegde, A. L., & **Bishop, N. J.** (2018). Saturation based color appearance of objects: A comparison between healthy elderly, young adults, and young adults wearing goggles simulating cataract. *Building and Environment*, *127*, 148-156. <https://doi.org/10.1016/j.buildenv.2017.11.007> (Impact factor, 2018: 4.820).
 
-23. Schaefer, D. R., Haas, S. A., & **Bishop, N. J.** (2012). A dynamic model of U.S. adolescents' smoking and friendship networks. *American Journal of Public Health*, *102*(6), e12-e18. [[https://]{.underline}](https://){.uri} [doi.org/10.2105/AJPH.2012.300705](https://doi.org/10.2105/AJPH.2012.300705) (Impact factor, 2012: 3.930).
+23. **Bishop, N. J.**, Zuniga, K. E., & Lucht, A.\* (2018). Latent profiles of macronutrient density and their association with mobility limitations in an observational longitudinal study of older U.S. adults. *The Journal of Nutrition, Health, & Aging*, *22*(6), 645-654. <https://doi.org/10.1007/s12603-017-0986-0> (Impact factor, 2018: 2.660).
 
-24. **Bishop, N. J.** (2011). Predicting rapid DUI recidivism using the Driver Risk Inventory on a state-wide sample of Floridian DUI offenders. *Drug and Alcohol Dependence*, *118*(2), 423-429. <https://doi.org/10.1016/j.drugalcdep.2011.05.006> (Impact factor, 2011: 3.383).
+24. **Bishop, N. J.**, Eggum-Wilkens, N. D., Haas, S. A., & Kronenfeld, J. J. (2016). Estimating the co-development of cognitive decline and physical mobility limitations in older U.S. adults. *Demography*, *53*(2), 337-364. <https://doi.org/10.1007/s13524-016-0458-x> (Impact factor, 2016: 2.802).
 
-25. **Bishop, N. J.** (2011). Predicting multiple DUI offenders using the Florida DRI. *Substance Use & Misuse*, *46*(5), 696-703. <https://doi.org/10.3109/10826084.2010.529629> (Impact factor, 2011: 1.104).
+25. Schaefer, D. R., Haas, S. A., & **Bishop, N. J.** (2012). A dynamic model of U.S. adolescents' smoking and friendship networks. *American Journal of Public Health*, *102*(6), e12-e18. [[https://]{.underline}](https://){.uri} [doi.org/10.2105/AJPH.2012.300705](https://doi.org/10.2105/AJPH.2012.300705) (Impact factor, 2012: 3.930).
 
-26. Haas, S. A., & **Bishop, N. J.** (2010). What do retrospective subjective reports of childhood health capture? Evidence from the Wisconsin Longitudinal Study. *Research on Aging*, *32*(6), 698-714. <https://doi.org/10.1177/0164027510379347> (Impact factor, 2010: 1.290).
+26. **Bishop, N. J.** (2011). Predicting rapid DUI recidivism using the Driver Risk Inventory on a state-wide sample of Floridian DUI offenders. *Drug and Alcohol Dependence*, *118*(2), 423-429. <https://doi.org/10.1016/j.drugalcdep.2011.05.006> (Impact factor, 2011: 3.383).
+
+27. **Bishop, N. J.** (2011). Predicting multiple DUI offenders using the Florida DRI. *Substance Use & Misuse*, *46*(5), 696-703. <https://doi.org/10.3109/10826084.2010.529629> (Impact factor, 2011: 1.104).
+
+28. Haas, S. A., & **Bishop, N. J.** (2010). What do retrospective subjective reports of childhood health capture? Evidence from the Wisconsin Longitudinal Study. *Research on Aging*, *32*(6), 698-714. <https://doi.org/10.1177/0164027510379347> (Impact factor, 2010: 1.290).
 
 <!-- **Journal Articles Under Review** -->
 
@@ -184,73 +188,79 @@ Updated: August 29, 2024
 
 5.  **Bishop, N. J.**, Torres, C., & Gupta, S. (2013). *Arizona Health Status and Vital Statistics, 2012*. <https://pub.azdhs.gov/health-stats/report/ahs/ahs2012/index.php>
 
-**Papers Presented at Professional Meetings**
+**Papers Presented at Professional Meetings** **(\*designates student author)**
 
-1.  **Bishop, N. J.** (2023, November). *Synthesis and Application of Quantitative Methods for Modeling Change in Multimorbidity and Related Health Domains.* Symposium Chair, Gerontological Society of America's annual meeting, Tampa FL*.*
+1.  **Bishop, N. J.**, Chen, S. Samper-Ternent, & Quiñones, A. R.  (2024, November). *Migration Status, Country of Residence, and Multimorbidity among Mexican Older Adults.* Paper presentation at the Gerontological Society of America’s annual meeting, Seattle, WA. Competitive symposium sponsored by the Gateway to Global Aging including travel award to cover conference registration.
 
-2.  **Bishop, N. J.**, Nagel, C., Botoseneanu, A., Allore, H., Newsom, J. T., Dorr, D., & Quiñones, A. R. (2023, November). *Longitudinal Methods for Assessing Progression of Multimorbidity and Related Health Outcomes.* Paper presented at the Gerontological Society of America's annual meeting, Tampa, FL.
+2.  **Bishop, N. J.**, Walker, K.\*, Nagel, C., Newsom, J., Botoseneanu, A., Allore, H. & Quiñones, A. (2024, November). *Multimorbidity Combinations and Depressive Symptom Trajectories Among US Older Adults.* Paper presentation at the Gerontological Society of America’s annual meeting, Seattle, WA. \* denotes graduate student author.
 
-3.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2023, November). *Emerging Cohort Disparities in Multimorbidity in US Adults Entering Early Older Adulthood*. Paper presented at the Gerontological Society of America's annual meeting, Tampa, FL.
+3.  **Bishop, N. J.** (2023, November). *Synthesis and Application of Quantitative Methods for Modeling Change in Multimorbidity and Related Health Domains.* Symposium Chair, Gerontological Society of America's annual meeting, Tampa FL*.*
 
-4.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2022, November). *Cohort Effects in Multimorbidity among Older U.S. Adults: Differences by Race/ethnicity and Nativity*. Paper presented at the Gerontological Society of America's annual meeting, Indianapolis, IN.
+4.  **Bishop, N. J.**, Nagel, C., Botoseneanu, A., Allore, H., Newsom, J. T., Dorr, D., & Quiñones, A. R. (2023, November). *Longitudinal Methods for Assessing Progression of Multimorbidity and Related Health Outcomes.* Paper presented at the Gerontological Society of America's annual meeting, Tampa, FL.
 
-5.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2021, November). *Birth Cohort Differences in Multimorbidity Burden among Aging US Adults*. Paper presented at the Gerontological Society of America's annual meeting, virtual.
+5.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2023, November). *Emerging Cohort Disparities in Multimorbidity in US Adults Entering Early Older Adulthood*. Paper presented at the Gerontological Society of America's annual meeting, Tampa, FL.
 
-6.  **Bishop, N. J.**, & Zhu, J. (2021, June). *Investigating Racial/Ethnic Disparities in the Association between AHEI 2010 and Change in Cystatin C in a Representative Sample of Older Americans*. Paper presented at the American Society of Nutrition virtual meeting, United States.
+6.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2022, November). *Cohort Effects in Multimorbidity among Older U.S. Adults: Differences by Race/ethnicity and Nativity*. Paper presented at the Gerontological Society of America's annual meeting, Indianapolis, IN.
 
-7.  Page, J. (Presenting)\*, Crixell, S. L., Markides, B. R.\*, **Bishop, N. J.**, & Biediger Friedman, L. M.(2017, April). *Comparison of Healthy Eating Index-2010 Scores of Preschool-Aged Children in a High-Risk Community to Those of an Age-Matched National Sample (NHANES 2009-2012)*. Paper presented at the Experimental Biology 2017 Conference.
+7.  **Bishop, N. J.**, Haas, S. A., & Quiñones, A. R. (2021, November). *Birth Cohort Differences in Multimorbidity Burden among Aging US Adults*. Paper presented at the Gerontological Society of America's annual meeting, virtual.
 
-8.  **Bishop, N. J.** (2011, March). *Examining Socioeconomic Variation in the Co-Evolution of Cognitive Decline and Functional Limitations among the Oldest Old*. Paper Presented at the Population Association of America's annual meeting.
+8.  **Bishop, N. J.**, & Zhu, J. (2021, June). *Investigating Racial/Ethnic Disparities in the Association between AHEI 2010 and Change in Cystatin C in a Representative Sample of Older Americans*. Paper presented at the American Society of Nutrition virtual meeting, United States.
 
-9.  **Bishop, N. J.** (2010, April). *Exploring Disparities in the Cognitive Functioning of Older Americans Using Growth Curve Selection Modeling: Do Health Behaviors Play a Role?* Paper presented at the Population Association of America's annual meeting
+9.  Page, J. (Presenting)\*, Crixell, S. L., Markides, B. R.\*, **Bishop, N. J.**, & Biediger Friedman, L. M.(2017, April). *Comparison of Healthy Eating Index-2010 Scores of Preschool-Aged Children in a High-Risk Community to Those of an Age-Matched National Sample (NHANES 2009-2012)*. Paper presented at the Experimental Biology 2017 Conference.
 
-10. **Bishop, N. J.**, & Haas, S. A. (2009, April). *The Influence of Access: Longitudinal BMI Change and Socioeconomic Status in the Health and Retirement Study,1992-2006.* Paper presented at the Population Association of America's annual meeting.
+10. **Bishop, N. J.** (2011, March). *Examining Socioeconomic Variation in the Co-Evolution of Cognitive Decline and Functional Limitations among the Oldest Old*. Paper Presented at the Population Association of America's annual meeting.
 
-11. Haas, S. A., & **Bishop, N. J.** (2009, April). *What Do Retrospective Subjective Reports of Childhood Health Capture? Evidence from the WLS and the PSID*. Paper presented at the Population Association of America's annual meeting.
+11. **Bishop, N. J.** (2010, April). *Exploring Disparities in the Cognitive Functioning of Older Americans Using Growth Curve Selection Modeling: Do Health Behaviors Play a Role?* Paper presented at the Population Association of America's annual meeting
 
-12. **Bishop, N. J.** (2008, April). *Stretch to Fit: Yoga and the Contemporary Health Lifestyle*. Paper presented at the Pacific Sociological Association's annual meeting.
+12. **Bishop, N. J.**, & Haas, S. A. (2009, April). *The Influence of Access: Longitudinal BMI Change and Socioeconomic Status in the Health and Retirement Study,1992-2006.* Paper presented at the Population Association of America's annual meeting.
 
-13. **Bishop, N. J.** (2007, April) *Variations on Gender Modeling in the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
+13. Haas, S. A., & **Bishop, N. J.** (2009, April). *What Do Retrospective Subjective Reports of Childhood Health Capture? Evidence from the WLS and the PSID*. Paper presented at the Population Association of America's annual meeting.
 
-14. **Bishop, N. J.** (2005, April), *Kick It up a Notch: Masculinity, Hierarchy and the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
+14. **Bishop, N. J.** (2008, April). *Stretch to Fit: Yoga and the Contemporary Health Lifestyle*. Paper presented at the Pacific Sociological Association's annual meeting.
 
-**Posters Presented at Professional Meetings**
+15. **Bishop, N. J.** (2007, April) *Variations on Gender Modeling in the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
 
-1.  **Bishop, N. J.**, Nagel, C., & Quiñones, A. R. (2024, April) *Exploring Perceived Limitations to Normal Daily Activities Due to Chronic Conditions: A Person-Centered Approach to Measuring Severity of Multimorbidity*. Poster presented at the Population Association of America's annual meeting, Columbus, OH.
+16. **Bishop, N. J.** (2005, April), *Kick It up a Notch: Masculinity, Hierarchy and the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
 
-2.  Bishop, N. J., Botoseneanu, A., Markwardt, S., Zambrano, P. L.\*, Walker, K.\*, & Quiñones, A. (2023, November). *Multimorbidity Patterns and Cognitive Change among Mexican Older Adults in the Mexican Health and Aging Study.* Poster presented at the Gerontological Society of America's annual meeting, Tampa, FL.
+**Posters Presented at Professional Meetings (\*designates student author)**
 
-3.  Tucker, J.\*, **Bishop, N. J.**, Wang, K. & Phillips, F. (2021, November). *Quality of Social Relationships Moderates the Impact of Marital Transitions on Depression for Older Adult Women.* Poster presented at the Gerontological Society of America's annual meeting, virtual*.*
+1.  **Bishop, N. J.**, Campos, B\*, Martinez, D., & Yahirun, J. (2024, November). *Population Aging and Increasing Chronic Disease Burden among Unauthorized Agricultural Workers.* Poster presentation at the Gerontological Society of America’s annual meeting, Seattle, WA. \*denotes graduate student author.
 
-4.  **Bishop, N. J.**, Ullevig, S., Wang, K., Zuniga, K., & Tucker, J.\* (2020, November). *Dietary Quality Predicts Short Term Change in Mobility Limitations in Older US Adults.* Poster presented at the Gerontological Society of America's annual meeting, virtual.
+2.  **Bishop, N. J.**, Nagel, C., & Quiñones, A. R. (2024, April) *Exploring Perceived Limitations to Normal Daily Activities Due to Chronic Conditions: A Person-Centered Approach to Measuring Severity of Multimorbidity*. Poster presented at the Population Association of America's annual meeting, Columbus, OH.
 
-5.  Tucker, J.\*, & **Bishop, N. J.** (2020, November). *Social Support and Depressive Outcomes in Bereaved Older Adults: An Analysis of the Health and Retirement Study.* Poster presented at the Gerontological Society of America's annual meeting, virtual.
+3.  Bishop, N. J., Botoseneanu, A., Markwardt, S., Zambrano, P. L.\*, Walker, K.\*, & Quiñones, A. (2023, November). *Multimorbidity Patterns and Cognitive Change among Mexican Older Adults in the Mexican Health and Aging Study.* Poster presented at the Gerontological Society of America's annual meeting, Tampa, FL.
 
-6.  **Bishop, N. J.** (2020, June). *Estimating Sample Size Required to Establish an Association between Walnut Intake and Cognitive Change in Older Adults: An Application of Monte Carlo Power Analysis*. Poster presented at the American Society of Nutrition virtual meeting, United States.
+4.  Tucker, J.\*, **Bishop, N. J.**, Wang, K. & Phillips, F. (2021, November). *Quality of Social Relationships Moderates the Impact of Marital Transitions on Depression for Older Adult Women.* Poster presented at the Gerontological Society of America's annual meeting, virtual*.*
 
-7.  **Bishop, N. J.**, & Zuniga, K. E. (2019, November). *Investigating Walnut Consumption and Cognitive Health in a Representative Sample of Older US Adults*. Poster presented at the Gerontological Society of America's annual meeting, Austin, TX.
+5.  **Bishop, N. J.**, Ullevig, S., Wang, K., Zuniga, K., & Tucker, J.\* (2020, November). *Dietary Quality Predicts Short Term Change in Mobility Limitations in Older US Adults.* Poster presented at the Gerontological Society of America's annual meeting, virtual.
 
-8.  **Bishop, N. J.**, & Wang, K. (2019, November). *Parallel Development of Memory, Disability, and Comorbidity in US Adults Age 65 and Older.* Poster presented at the Gerontological Society of America's annual meeting, Austin, TX.
+6.  Tucker, J.\*, & **Bishop, N. J.** (2020, November). *Social Support and Depressive Outcomes in Bereaved Older Adults: An Analysis of the Health and Retirement Study.* Poster presented at the Gerontological Society of America's annual meeting, virtual.
 
-9.  **Bishop, N. J.**, Zuniga, K. E., & Noon, B.\* (2019, June). *Egg Consumption, Multi-Domain Cognitive Performance, and Short-Term Cognitive Change in a Representative Sample of Older U.S. Adults*. Poster presented at the American Society of Nutrition, Baltimore, MD.
+7.  **Bishop, N. J.** (2020, June). *Estimating Sample Size Required to Establish an Association between Walnut Intake and Cognitive Change in Older Adults: An Application of Monte Carlo Power Analysis*. Poster presented at the American Society of Nutrition virtual meeting, United States.
 
-10. Turner, A.\*, Zuniga, K., & **Bishop, N. J.** (2019, June). *Relationship between Dietary Lutein and Cognition in an Older Adult Population*. Poster presented at the American Society of Nutrition, Baltimore, MD.
+8.  **Bishop, N. J.**, & Zuniga, K. E. (2019, November). *Investigating Walnut Consumption and Cognitive Health in a Representative Sample of Older US Adults*. Poster presented at the Gerontological Society of America's annual meeting, Austin, TX.
 
-11. **Bishop, N. J.**, Zuniga, K. E., & Noon, B.\* (2019, April). *Caloric Intake and Dietary Factors are Associated with Onset of Physical Disability and Mortality in a Representative Sample of Older Adults*. Poster presented at the Population Association of America's annual meeting, Austin, TX.
+9.  **Bishop, N. J.**, & Wang, K. (2019, November). *Parallel Development of Memory, Disability, and Comorbidity in US Adults Age 65 and Older.* Poster presented at the Gerontological Society of America's annual meeting, Austin, TX.
 
-12. **Bishop, N. J.**, & Wang, K. (2018, April). *Food Insecurity, Chronic Disease Burden, and Mobility Limitations among Older U.S. Adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study" Population Association of America*. Poster presented at the Population Association of America's annual meeting.
+10. **Bishop, N. J.**, Zuniga, K. E., & Noon, B.\* (2019, June). *Egg Consumption, Multi-Domain Cognitive Performance, and Short-Term Cognitive Change in a Representative Sample of Older U.S. Adults*. Poster presented at the American Society of Nutrition, Baltimore, MD.
+
+11. Turner, A.\*, Zuniga, K., & **Bishop, N. J.** (2019, June). *Relationship between Dietary Lutein and Cognition in an Older Adult Population*. Poster presented at the American Society of Nutrition, Baltimore, MD.
+
+12. **Bishop, N. J.**, Zuniga, K. E., & Noon, B.\* (2019, April). *Caloric Intake and Dietary Factors are Associated with Onset of Physical Disability and Mortality in a Representative Sample of Older Adults*. Poster presented at the Population Association of America's annual meeting, Austin, TX.
 
 13. **Bishop, N. J.**, & Wang, K. (2018, April). *Food Insecurity, Chronic Disease Burden, and Mobility Limitations among Older U.S. Adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study" Population Association of America*. Poster presented at the Population Association of America's annual meeting.
 
-14. **Bishop, N. J.**, & Zuniga, K. E. (2017, November). *Empirically Derived Dietary Patterns and Cognitive Decline in Older Adults: An Application of Exploratory Factor Mixture Models*. Poster presented at the American Public Health Association's annual meeting, Atlanta, GA
+14. **Bishop, N. J.**, & Wang, K. (2018, April). *Food Insecurity, Chronic Disease Burden, and Mobility Limitations among Older U.S. Adults: Findings from the Health and Retirement Study and Health Care and Nutrition Study" Population Association of America*. Poster presented at the Population Association of America's annual meeting.
 
-15. Thornton, H., Biediger-Friedman, L. M., **Bishop, N. J.**, Abohosh, A.\*, Alhado, M.\*, Moyer, T.\*, Powers, R.\*, Royer, H.\*, & Silva, M.\* (2017, March). *Pilot Study to Assess Food Security at a Large University in Central Texas*. Poster presented at the Texas Association of Nutrition and Dietetics' annual meeting.
+15. **Bishop, N. J.**, & Zuniga, K. E. (2017, November). *Empirically Derived Dietary Patterns and Cognitive Decline in Older Adults: An Application of Exploratory Factor Mixture Models*. Poster presented at the American Public Health Association's annual meeting, Atlanta, GA
 
-16. **Bishop, N. J.**, & Zuniga, K. E. (2016, November). *Identifying Diet Typologies and Predictors of Macronutrient Consumption among Aging Americans*. Poster presented at the Gerontological Society of America's annual meeting, New Orleans, LA.
+16. Thornton, H., Biediger-Friedman, L. M., **Bishop, N. J.**, Abohosh, A.\*, Alhado, M.\*, Moyer, T.\*, Powers, R.\*, Royer, H.\*, & Silva, M.\* (2017, March). *Pilot Study to Assess Food Security at a Large University in Central Texas*. Poster presented at the Texas Association of Nutrition and Dietetics' annual meeting.
 
-17. Zuniga, K. E., & **Bishop, N. J.** (2016, March). *Cancer Treatment and Cognitive Decline in the Health and Retirement Study*. Poster presented at the International Cancer and Cognition Task Force Conference, Netherlands.
+17. **Bishop, N. J.**, & Zuniga, K. E. (2016, November). *Identifying Diet Typologies and Predictors of Macronutrient Consumption among Aging Americans*. Poster presented at the Gerontological Society of America's annual meeting, New Orleans, LA.
 
-**Posters Presented at University Symposium**
+18. Zuniga, K. E., & **Bishop, N. J.** (2016, March). *Cancer Treatment and Cognitive Decline in the Health and Retirement Study*. Poster presented at the International Cancer and Cognition Task Force Conference, Netherlands.
+
+**Posters Presented at University Symposium (\*designates student author)**
 
 1.  **Bishop, N. J.**, Ullevig, S., Wang, K., Zuniga, K., & Tucker, J.\* (2021, April). *Dietary Quality Predicts Short Term Change in Mobility Limitations in Older US Adults.* Poster presented at the Health Scholar Showcase, Texas State University.
 
@@ -318,13 +328,13 @@ Updated: August 29, 2024
 
 **Courses Taught**
 
-*University of Arizona (2 courses; 2 sections)*
+*University of Arizona*
 
-1.  FSHD 617A - Structural Equation Modeling (1 section; taught in-person).
-2.  FSHD 537A - Statistical Inference for the Social Sciences (1 section; taught in-person).
+1.  HDFS 617A - Structural Equation Modeling (2 sections; taught in-person).
+2.  HDFS 537A - Statistical Inference for the Social Sciences (1 section; taught in-person).
 3.  HDFS 536 - Introductory Graduate Statistics (1 section; taught in person).
 
-*Texas State University (6 courses; 23 sections)*
+*Texas State University*
 
 1.  HDFS 1351 - Lifespan Development (1 section; taught hybrid).
 
@@ -338,7 +348,7 @@ Updated: August 29, 2024
 
 6.  FCD 5352 - Seminar -- Health and the Life Course (1 section).
 
-*Arizona State University (2 courses; 4 sections)*
+*Arizona State University*
 
 1.  SOC 390 - Social Statistics I (2 sections).
 
@@ -381,35 +391,39 @@ Updated: August 29, 2024
 
 *Reviewer/Referee*
 
-1.  Journals of Gerontology: Biological Sciences (2024).
+1.  Journal of Global Ageing (2024).
 
-2.  Age and Ageing (2024).
+2.  Innovation in Aging (2024)
 
-3.  The Lancet Public Health (2024).
+3.  Journals of Gerontology: Biological Sciences (2024).
 
-4.  American Journal of Epidemiology (2023).
+4.  Age and Ageing (2024).
 
-5.  Preventive Medicine (2023).
+5.  The Lancet Public Health (2024).
 
-6.  BMC Geriatrics (2021).
+6.  American Journal of Epidemiology (2023).
 
-7.  The Lancet Planetary Health (2021).
+7.  Preventive Medicine (2023).
 
-8.  Journal of Nutrition in Gerontology and Geriatrics (2020-2024).
+8.  BMC Geriatrics (2021).
 
-9.  Nutritional Neuroscience (2020).
+9.  The Lancet Planetary Health (2021).
 
-10. Journal of the American College of Nutrition (2019).
+10. Journal of Nutrition in Gerontology and Geriatrics (2020-2024).
 
-11. Social Science & Medicine (2019, 2024).
+11. Nutritional Neuroscience (2020).
 
-12. Demography (2013, 2019).
+12. Journal of the American College of Nutrition (2019).
 
-13. American Journal of Public Health (2016, 2018).
+13. Social Science & Medicine (2019, 2024).
 
-14. Journal of Aging and Health (2016, 2018).
+14. Demography (2013, 2019).
 
-15. Journal of Gerontology: Social Sciences (2012).
+15. American Journal of Public Health (2016, 2018).
+
+16. Journal of Aging and Health (2016, 2018).
+
+17. Journal of Gerontology: Social Sciences (2012).
 
 *Invited reviewer*
 
@@ -434,3 +448,4 @@ Updated: August 29, 2024
 1.  Community Food Bank of Southern Arizona, food distribution volunteer (June 2024).
 2.  Humane Borders, water run volunteer (June 2024).
 3.  Meals on Wheels, delivery driver (August 2019 -- July 2022).
+:::
