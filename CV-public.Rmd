@@ -6,6 +6,7 @@ output:
   default:
     toc: true
     toc_depth: 2
+  pdf_document: default
   html_document:
     css: style.css
     toc: yes
@@ -13,7 +14,6 @@ output:
     collapsed: no
     number_sections: no
     toc_depth: 2
-  pdf_document: default
 ---
 
 ```{=html}
@@ -110,7 +110,7 @@ Updated: February 24, 2025
 
 # **Research**
 
-**Refereed Journal Articles (\*designates student author)**
+**Refereed Journal Articles (\*denotes student author)**
 
 1.  **Bishop, N.J.**, Botoseneanu, A., Newsom, J.T., Allore, H.G., Nagel, C.L., Markwardt, S., Samper-Ternent, R., & Quiñones, A.R. (2025). Multimorbidity patterns and cognitive change among Mexican older adults: Findings from the Mexican Health and Aging Study. *Journal of Global Ageing*. Published online ahead of print. <https://doi.org/10.1332/29767202Y2024D000000019>.
 
@@ -188,11 +188,11 @@ Updated: February 24, 2025
 
 5.  **Bishop, N. J.**, Torres, C., & Gupta, S. (2013). *Arizona Health Status and Vital Statistics, 2012*. <https://pub.azdhs.gov/health-stats/report/ahs/ahs2012/index.php>
 
-**Papers Presented at Professional Meetings** **(\*designates student author)**
+**Papers Presented at Professional Meetings** **(\*denotes student author)**
 
 1.  **Bishop, N. J.**, Chen, S. Samper-Ternent, & Quiñones, A. R.  (2024, November). *Migration Status, Country of Residence, and Multimorbidity among Mexican Older Adults.* Paper presentation at the Gerontological Society of America’s annual meeting, Seattle, WA. Competitive symposium sponsored by the Gateway to Global Aging including travel award to cover conference registration.
 
-2.  **Bishop, N. J.**, Walker, K.\*, Nagel, C., Newsom, J., Botoseneanu, A., Allore, H. & Quiñones, A. (2024, November). *Multimorbidity Combinations and Depressive Symptom Trajectories Among US Older Adults.* Paper presentation at the Gerontological Society of America’s annual meeting, Seattle, WA. \* denotes graduate student author.
+2.  **Bishop, N. J.**, Walker, K.\*, Nagel, C., Newsom, J., Botoseneanu, A., Allore, H. & Quiñones, A. (2024, November). *Multimorbidity Combinations and Depressive Symptom Trajectories Among US Older Adults.* Paper presentation at the Gerontological Society of America’s annual meeting, Seattle, WA.
 
 3.  **Bishop, N. J.** (2023, November). *Synthesis and Application of Quantitative Methods for Modeling Change in Multimorbidity and Related Health Domains.* Symposium Chair, Gerontological Society of America's annual meeting, Tampa FL*.*
 
@@ -222,9 +222,9 @@ Updated: February 24, 2025
 
 16. **Bishop, N. J.** (2005, April), *Kick It up a Notch: Masculinity, Hierarchy and the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
 
-**Posters Presented at Professional Meetings (\*designates student author)**
+**Posters Presented at Professional Meetings (\*denotes student author)**
 
-1.  **Bishop, N. J.**, Campos, B\*, Martinez, D., & Yahirun, J. (2024, November). *Population Aging and Increasing Chronic Disease Burden among Unauthorized Agricultural Workers.* Poster presentation at the Gerontological Society of America’s annual meeting, Seattle, WA. \*denotes graduate student author.
+1.  **Bishop, N. J.**, Campos, B\*, Martinez, D., & Yahirun, J. (2024, November). *Population Aging and Increasing Chronic Disease Burden among Unauthorized Agricultural Workers.* Poster presentation at the Gerontological Society of America’s annual meeting, Seattle, WA. .
 
 2.  **Bishop, N. J.**, Nagel, C., & Quiñones, A. R. (2024, April) *Exploring Perceived Limitations to Normal Daily Activities Due to Chronic Conditions: A Person-Centered Approach to Measuring Severity of Multimorbidity*. Poster presented at the Population Association of America's annual meeting, Columbus, OH.
 
@@ -260,7 +260,7 @@ Updated: February 24, 2025
 
 18. Zuniga, K. E., & **Bishop, N. J.** (2016, March). *Cancer Treatment and Cognitive Decline in the Health and Retirement Study*. Poster presented at the International Cancer and Cognition Task Force Conference, Netherlands.
 
-**Posters Presented at University Symposium (\*designates student author)**
+**Posters Presented at University Symposium (\*denotes student author)**
 
 1.  **Bishop, N. J.**, Ullevig, S., Wang, K., Zuniga, K., & Tucker, J.\* (2021, April). *Dietary Quality Predicts Short Term Change in Mobility Limitations in Older US Adults.* Poster presented at the Health Scholar Showcase, Texas State University.
 
