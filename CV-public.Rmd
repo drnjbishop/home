@@ -2,6 +2,10 @@
 title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
+  pdf_document: default
+  default:
+    toc: true
+    toc_depth: 2
   html_document:
     css: style.css
     toc: yes
@@ -9,10 +13,6 @@ output:
     collapsed: no
     number_sections: no
     toc_depth: 2
-  default:
-    toc: true
-    toc_depth: 2
-  pdf_document: default
   word_document: default
 ---
 
