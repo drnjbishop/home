@@ -2,10 +2,6 @@
 title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
-  pdf_document: default
-  default:
-    toc: true
-    toc_depth: 2
   html_document:
     css: style.css
     toc: yes
@@ -13,6 +9,10 @@ output:
     collapsed: no
     number_sections: no
     toc_depth: 2
+  default:
+    toc: true
+    toc_depth: 2
+  pdf_document: default
   word_document: default
 ---
 
@@ -284,11 +284,11 @@ Updated: July 22, 2025
 
 **Invited Talks, Lectures, and Presentations**
 
-1.  **Bishop, N. J.**, Botoseneanu, A., Newsom, J. T., Allore, H., Nagel, C ., Markwardt, S., Samer-Ternent, R. & Quiñones, A. R. (2024, April). *Multimorbidity Patterns and Cognitive Trajectories of Mexican Older Adults: Findings from the Mexican Health and Aging Study.* University of Arizona School of Sociology Spring Colloquium Series.
+1.  **Bishop, N. J.**, Botoseneanu, A., Newsom, J. T., Allore, H., Nagel, C ., Markwardt, S., Samper-Ternent, R. & Quiñones, A. R. (2024, April). *Multimorbidity Patterns and Cognitive Trajectories of Mexican Older Adults: Findings from the Mexican Health and Aging Study.* University of Arizona School of Sociology Spring Colloquium Series.
 
-2.  **Bishop, N. J.**, Botoseneanu, A., Newsom, J. T., Allore, H., Nagel, C ., Markwardt, S., Samer-Ternent, R. & Quiñones, A. R. (2024, April). *Multimorbidity Patterns and Cognitive Trajectories of Mexican Older Adults: Findings from the Mexican Health and Aging Study.* Mexican Health and Aging Study and Sister Studies Work Group.
+2.  **Bishop, N. J.**, Botoseneanu, A., Newsom, J. T., Allore, H., Nagel, C ., Markwardt, S., Samper-Ternent, R. & Quiñones, A. R. (2024, April). *Multimorbidity Patterns and Cognitive Trajectories of Mexican Older Adults: Findings from the Mexican Health and Aging Study.* Mexican Health and Aging Study and Sister Studies Work Group.
 
-3.  **Bishop, N. J.**, Botoseneanu, A., Newsom, J. T., Allore, H., Nagel, C ., Markwardt, S., Samer-Ternent, R. & Quiñones, A. R. (2024, March). *Multimorbidity Patterns and Cognitive Trajectories of Mexican Older Adults: Findings from the Mexican Health and Aging Study.* Leveraging Existing Data and Methods in Health Disparities Research 2024. Organized by Duke University and Alzheimer's Association. Duke University.
+3.  **Bishop, N. J.**, Botoseneanu, A., Newsom, J. T., Allore, H., Nagel, C ., Markwardt, S., Samper-Ternent, R. & Quiñones, A. R. (2024, March). *Multimorbidity Patterns and Cognitive Trajectories of Mexican Older Adults: Findings from the Mexican Health and Aging Study.* Leveraging Existing Data and Methods in Health Disparities Research 2024. Organized by Duke University and Alzheimer's Association. Duke University.
 
 4.  **Bishop, N. J.**, & Zuniga, K. (2019, July). "Walnut Consumption and Cognitive Trajectories in a Representative Sample of Older U.S. Adults". California Walnut Commission Health Research Conference.
 

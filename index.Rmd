@@ -15,8 +15,8 @@ output: html_document
 
 </style>
 ```
-<div class="row" style="padding-top: 30px;">
 
+::::: {.row style="padding-top: 30px;"}
 ::: col-sm-6
 # Supporting health in aging populations
 
@@ -32,7 +32,8 @@ output: html_document
     -   Comorbid chronic conditions
     -   Dietary intake
     -   Food insecurity
--   Cohort trends in population health 
+-   Cohort trends in population health
+-   Cognitive outcomes and multimorbidity among Mexican-origin older adults 
 
 ## Methodological expertise
 
@@ -63,8 +64,6 @@ output: html_document
 <a href = "Email: njbishop@arizona.edu" style="font-size: 16px;" > Email: njbishop\@arizona.edu </a>
 
 <a href = "https://scholar.google.com/citations?user=XhMzoO8AAAAJ&hl=en" style="font-size: 16px;" > Google Scholar </a>
-
-<a href="https://twitter.com/drnjbishop?ref_src=twsrc%5Etfw" style="font-size: 16px;" > Twitter </a>
 :::
 
 ::: col-sm-6
@@ -72,3 +71,4 @@ output: html_document
 
 ![](images/mountain_2_opt.jpeg) </a>
 :::
+:::::
