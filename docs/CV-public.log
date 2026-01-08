@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  7 JAN 2026 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.7)  7 JAN 2026 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -432,12 +432,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 226.
 [2] [3]
-Overfull \hbox (2.60185pt too wide) in paragraph at lines 405--412
-\T1/ptm/m/n/10 ship net-works. \T1/ptm/m/it/10 Amer-i-can Jour-nal of Pub-lic Health\T1/ptm/m/n/10 , \T1/ptm/m/it/10 102\T1/ptm/m/n/10 (6), e12-e18. [][]https://[] []doi.org/10.2105/AJPH.2012.300705[]
+Overfull \hbox (4.2719pt too wide) in paragraph at lines 406--413
+\T1/ptm/m/n/10 ship net-works. \T1/ptm/m/it/10 Amer-i-can Jour-nal of Pub-lic Health\T1/ptm/m/n/10 , \T1/ptm/m/it/10 102\T1/ptm/m/n/10 (6), e12--e18. [][]https://[] []doi.org/10.2105/AJPH.2012.300705[]
  []
 
 [4]
-Overfull \hbox (96.40936pt too wide) in paragraph at lines 465--470
+Overfull \hbox (96.40936pt too wide) in paragraph at lines 466--471
 \T1/ptm/m/it/10 Book\T1/ptm/m/n/10 . []https://pub.azdhs.gov/e-books/american-indians/az-american-[] []indians-2012/files/assets/common/downloads/HSAM%202012.pdf[] 
  []
 
@@ -459,7 +459,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  89i,5n,93p,450b,545s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/ProgramData/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/ProgramData/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/ProgramData/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on CV-public.pdf (12 pages, 95301 bytes).
+Output written on CV-public.pdf (12 pages, 95336 bytes).
 PDF statistics:
  359 PDF objects out of 1000 (max. 8388607)
  335 compressed objects within 4 object streams
