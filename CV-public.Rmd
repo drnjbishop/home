@@ -2,6 +2,10 @@
 title: "Curriculum Vitae"
 fontfamily: mathptmx
 output:
+  pdf_document: default
+  default:
+    toc: true
+    toc_depth: 2
   html_document:
     css: style.css
     toc: yes
@@ -9,10 +13,6 @@ output:
     collapsed: no
     number_sections: no
     toc_depth: 2
-  default:
-    toc: true
-    toc_depth: 2
-  pdf_document: default
   word_document: default
 ---
 
@@ -36,13 +36,13 @@ Associate Professor
 
 Human Development and Family Science
 
-Norton School of Family & Consumer Sciences
+Norton School of Human Ecology
 
 Faculty Affiliate (by courtesy), School of Sociology
 
 University of Arizona
 
-Updated: September 14, 2026
+Updated: September 15, 2026
 
 # **Academic/Professional Background**
 
@@ -114,9 +114,9 @@ Updated: September 14, 2026
 
 **Refereed Journal Articles (\*denotes student author)**
 
-1.  **Bishop, N. J.**, Walker, K. J.\*, Nagel, C. L., Newsom, J. T., Botoseneanu, A., Allore, H. G., Triolo, F., & A. R. Quiñones. (2026). Prevalent physical multimorbidity patterns and depressive symptom trajectories among community dwelling U.S. older adults. *Aging & Mental Health*, 1–13. https://doi.org/10.1080/13607863.2026.2720598
+1.  **Bishop, N. J.**, Walker, K. J.\*, Nagel, C. L., Newsom, J. T., Botoseneanu, A., Allore, H. G., Triolo, F., & A. R. Quiñones. (2026). Prevalent physical multimorbidity patterns and depressive symptom trajectories among community dwelling U.S. older adults. *Aging & Mental Health*, 1–13. <https://doi.org/10.1080/13607863.2026.2720598>
 
-2.  **Bishop, N. J.**, Campos, B.\*, Martínez, D. E. & J. J. Yahirun. (2026). Population Aging and the Burden of Chronic Health Conditions Among Mexican-Born Undocumented Farmworkers in the U.S. *Journal of Immigrant and Minority Health*. https://doi.org/10.1007/s10903-026-01953-5
+2.  **Bishop, N. J.**, Campos, B.\*, Martínez, D. E. & J. J. Yahirun. (2026). Population Aging and the Burden of Chronic Health Conditions Among Mexican-Born Undocumented Farmworkers in the U.S. *Journal of Immigrant and Minority Health*. <https://doi.org/10.1007/s10903-026-01953-5>
 
 3.  Haas, S. A., Caniglia, M.\*, **Bishop, N. J.**, & Quiñones, A. R. (2025). Birth cohort divergence in English and European multimorbidity trajectories. *International Journal of Epidemiology*, 54(6), dyaf185. [https://doi.org/10.1093/ije/dyaf185](#0)
 
