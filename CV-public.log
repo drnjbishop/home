@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.4)  15 SEP 2026 16:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.4)  16 SEP 2026 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -488,7 +488,7 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 (C:\Users\Nicholas Bishop\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 )
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 76
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 80
 .
 
 (C:\Users\Nicholas Bishop\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.
@@ -503,24 +503,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (CV-public.aux)
 \openout1 = `CV-public.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
 
 (C:\Users\Nicholas Bishop\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
 upp-pdf.mkii
@@ -581,19 +581,19 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 76.
-Package microtype Info: Applying patch `item' on input line 76.
-Package microtype Info: Applying patch `toc' on input line 76.
-Package microtype Info: Applying patch `eqnum' on input line 76.
-Package microtype Info: Applying patch `footnote' on input line 76.
-Package microtype Info: Applying patch `verbatim' on input line 76.
+LaTeX Info: Redefining \microtypecontext on input line 80.
+Package microtype Info: Applying patch `item' on input line 80.
+Package microtype Info: Applying patch `toc' on input line 80.
+Package microtype Info: Applying patch `eqnum' on input line 80.
+Package microtype Info: Applying patch `footnote' on input line 80.
+Package microtype Info: Applying patch `verbatim' on input line 80.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 76.
+LaTeX Info: Redefining \showhyphens on input line 80.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -602,30 +602,30 @@ Package microtype Info: No adjustment of character kerning.
 ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 76.
+Package hyperref Info: Link coloring OFF on input line 80.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 78.
+ 82.
 
 (C:\Users\Nicholas Bishop\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztm
 cm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 78.
+ 82.
 
 (C:\Users\Nicholas Bishop\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztm
 cm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 78.
+ 82.
 
 (C:\Users\Nicholas Bishop\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztm
 cm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 78.
+ 82.
 
 (C:\Users\Nicholas Bishop\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztm
 cm.fd
@@ -639,21 +639,21 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 7
-8.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
+2.
 
 (C:\Users\Nicholas Bishop\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm
 .fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-01.
+08.
 
 (C:\Users\Nicholas Bishop\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm
 .fd
@@ -666,13 +666,13 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 Users/Nicholas Bishop/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc
 }]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 226.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 233.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 226.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 233.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 226.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 233.
 
-LaTeX Warning: Hyper reference `0' on page 2 undefined on input line 237.
+LaTeX Warning: Hyper reference `0' on page 2 undefined on input line 244.
 
 
 
@@ -681,7 +681,7 @@ LaTeX Warning: Hyper reference `0' on page 2 undefined on input line 237.
 [3]
 
 [4]
-Overfull \hbox (85.35545pt too wide) in paragraph at lines 459--464
+Overfull \hbox (85.35545pt too wide) in paragraph at lines 466--471
 \T1/ptm/m/it/10 (-20) Book\T1/ptm/m/n/10 (-20) . []https://pub.azdhs.gov/e-book
 s/american-indians/az-american-[] []indians-2012/files/assets/common/downloads/
 HSAM%202012.pdf[] 
@@ -713,20 +713,20 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 14134 strings out of 473899
- 220675 string characters out of 5721745
- 1954960 words of memory out of 5000000
- 36247 multiletter control sequences out of 15000+600000
+ 14135 strings out of 473899
+ 220683 string characters out of 5721745
+ 1955960 words of memory out of 5000000
+ 36248 multiletter control sequences out of 15000+600000
  616855 words of font info for 340 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,5n,81p,1008b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,5n,81p,1008b,611s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Nicholas Bishop/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
 /utmb8a.pfb><C:/Users/Nicholas Bishop/AppData/Local/Programs/MiKTeX/fonts/type1
 /urw/times/utmr8a.pfb><C:/Users/Nicholas Bishop/AppData/Local/Programs/MiKTeX/f
 onts/type1/urw/times/utmri8a.pfb>
-Output written on CV-public.pdf (12 pages, 137474 bytes).
+Output written on CV-public.pdf (12 pages, 137927 bytes).
 PDF statistics:
- 363 PDF objects out of 1000 (max. 8388607)
+ 365 PDF objects out of 1000 (max. 8388607)
  184 named destinations out of 1000 (max. 500000)
  55345 words of extra memory for PDF output out of 61914 (max. 10000000)
 
