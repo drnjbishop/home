@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.17)  17 SEP 2026 09:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.17)  13 NOV 2026 12:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -325,30 +325,30 @@ File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
 File: bkm-pdftex.def 2026-05-21 v1.32 bookmark driver for pdfTeX (HO)
 \BKM@id=\count316
 ))
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 76.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 80.
 (c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (./CV-public.aux)
 \openout1 = `CV-public.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
 (c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -389,54 +389,54 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 76.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 104.
+Package hyperref Info: Link coloring OFF on input line 80.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 108.
 (c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [1
 
 {c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 229.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 233.
 (c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 229.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 233.
 (c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 229.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 233.
 (c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 229.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 233.
 (c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 229.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 233.
 (c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 229.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 233.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 229.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 233.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 229.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 233.
 [2]
 
-LaTeX Warning: Hyper reference `0' on page 3 undefined on input line 240.
+LaTeX Warning: Hyper reference `0' on page 3 undefined on input line 244.
 
 [3] [4]
-Overfull \hbox (4.2719pt too wide) in paragraph at lines 406--412
-\T1/ptm/m/n/10 ship net-works. \T1/ptm/m/it/10 Amer-i-can Jour-nal of Pub-lic Health\T1/ptm/m/n/10 , \T1/ptm/m/it/10 102\T1/ptm/m/n/10 (6), e12--e18. [][]https://[] []doi.org/10.2105/AJPH.2012.300705[] 
+Overfull \hbox (2.37187pt too wide) in paragraph at lines 410--415
+\T1/ptm/m/n/10 ship net-works. \T1/ptm/m/it/10 Amer-i-can Jour-nal of Pub-lic Health\T1/ptm/m/n/10 , \T1/ptm/m/it/10 102\T1/ptm/m/n/10 (6), e12--e18. [][]https://doi.org/10.2105/AJPH.2012.300705[] 
  []
 
 
-Overfull \hbox (96.40936pt too wide) in paragraph at lines 462--467
+Overfull \hbox (96.40936pt too wide) in paragraph at lines 465--470
 \T1/ptm/m/it/10 Book\T1/ptm/m/n/10 . []https://pub.azdhs.gov/e-books/american-indians/az-american-[] []indians-2012/files/assets/common/downloads/HSAM%202012.pdf[] 
  []
 
-[5] [6] [7] [8] [9] [10] [11] [12] [13] (./CV-public.aux)
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14] (./CV-public.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
@@ -446,18 +446,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11507 strings out of 469089
- 177320 string characters out of 5457179
- 608486 words of memory out of 5000000
- 40240 multiletter control sequences out of 15000+600000
+ 11520 strings out of 469089
+ 177423 string characters out of 5457179
+ 608490 words of memory out of 5000000
+ 40241 multiletter control sequences out of 15000+600000
  658454 words of font info for 81 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 88i,5n,93p,464b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,5n,93p,465b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Users/njbishop/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on CV-public.pdf (13 pages, 97257 bytes).
+Output written on CV-public.pdf (14 pages, 99930 bytes).
 PDF statistics:
- 381 PDF objects out of 1000 (max. 8388607)
- 356 compressed objects within 4 object streams
- 190 named destinations out of 1000 (max. 500000)
+ 397 PDF objects out of 1000 (max. 8388607)
+ 371 compressed objects within 4 object streams
+ 202 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
