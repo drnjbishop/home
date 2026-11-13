@@ -1,7 +1,16 @@
 ---
 title: "Curriculum Vitae"
 fontfamily: mathptmx
+header-includes:
+  - \usepackage{titlesec}
+  - \titleformat{\subsubsection}{\normalfont\bfseries}{}{0pt}{}
+  - \titleformat{\paragraph}[block]{\normalfont\itshape}{}{0pt}{}
+  - \titlespacing*{\paragraph}{0pt}{1ex}{0.5ex}
 output:
+  pdf_document: default
+  default:
+    toc: true
+    toc_depth: 2
   html_document:
     css: style.css
     toc: yes
@@ -9,10 +18,6 @@ output:
     collapsed: no
     number_sections: no
     toc_depth: 2
-  default:
-    toc: true
-    toc_depth: 2
-  pdf_document: default
   word_document: default
 ---
 
@@ -48,7 +53,7 @@ Updated: November 13, 2026
 
 # **Academic/Professional Background**
 
-**Education**
+### Education
 
 - PhD, Arizona State University, Sociology, 2011
 
@@ -56,7 +61,7 @@ Updated: November 13, 2026
 
 - BA, University of Colorado at Denver, Sociology, 2004
 
-**University Experience**
+### University Experience
 
 - Faculty Affiliate and Graduate Faculty (courtesy appointment), School of Sociology, University of Arizona, 2024 -- present
 
@@ -80,7 +85,7 @@ Updated: November 13, 2026
 
 - Teaching Associate, University of Colorado at Denver and Health Sciences Center, 2006
 
-**Relevant Professional Experience**
+### Relevant Professional Experience
 
 - Arizona Vital Statistician, Arizona Department of Health Services, 2013 -- 2014
 
@@ -94,7 +99,7 @@ Updated: November 13, 2026
 
 # **Grants and Contracts**
 
-**Funded External Grants and Contracts**
+### Funded External Grants and Contracts
 
 1.  **Bishop, N. J.** (PI). Cardiometabolic Risk and Transitions in Dementia, Disability, and Mortality among Mexican-Origin Older Adults. Funder: Texas Resource Center on Minority Aging Research, \$42,293. (Funded September 15, 2026).
 
@@ -104,7 +109,7 @@ Updated: November 13, 2026
 
 4.  **Bishop, N. J.** (PI), & Zuniga, K. E. (Co-PI) Investigating Walnut Consumption, Age, and Changes in Cognitive Health in a Nationally-Representative Sample of Older U.S. Adults. Funder: California Walnut Commission, \$64,751. (Submitted: July 10, 2018, Funded: September 1, 2018 -- June 30, 2019).
 
-**Funded Internal Grants and Contracts**
+### Funded Internal Grants and Contracts
 
 1.  Goble, P. M. (PI), Yishan Shen (Co-PI), Perez-Brena, N. J. (Co-PI), Weimer, A. (Co-PI), & **Bishop, N. J.** (Co-I). Opportunities for Undergraduate Research in Human Development & Family Science (OUR HDFS) Fellowship. Funder: Texas State University, College of Applied Arts, \$5,000. (Submitted June 11, 2021, Funded August 5, 2021 -- July 31, 2022).
 
@@ -114,7 +119,7 @@ Updated: November 13, 2026
 
 # **Research**
 
-**Refereed Journal Articles (\*denotes student author)**
+### Refereed Journal Articles (\*denotes student author)
 
 1.  **Bishop, N. J.**, Walker, K. J.\*, Nagel, C. L., Newsom, J. T., Botoseneanu, A., Allore, H. G., Triolo, F., & A. R. Quiñones. (2026). Prevalent physical multimorbidity patterns and depressive symptom trajectories among community dwelling U.S. older adults. *Aging & Mental Health*, 1–13. <https://doi.org/10.1080/13607863.2026.2720598>
 
@@ -184,13 +189,13 @@ Updated: November 13, 2026
 
 <!-- **Journal Articles Under Review** -->
 
-**Non-refereed Articles**
+### Non-refereed Articles
 
 1.  Kronenfeld, J. J., Keith, V., **Bishop, N. J.**, & Ayers, S. (2010). Report of survey of sociologists with interests in mental health and medical sociology regarding health policy issues. *American Sociological Association Mental Health Section Newsletter*, *17*, 6--7.
 
 2.  Kronenfeld, J. J., Keith, V., **Bishop, N. J.**, & Ayers, S. (2009). Report on survey of medical sociologists regarding health policy issues. *American Sociological Association Medical Sociology Newsletter*, *45*, 12--14.
 
-**Reports**
+### Reports
 
 1.  **Bishop, N. J.**, Torres, C., & Gupta, S. (2014). *Arizona Health Status and Vital Statistics, 2013*. <https://pub.azdhs.gov/health-stats/report/ahs/ahs2013/index.php>
 
@@ -198,11 +203,11 @@ Updated: November 13, 2026
 
 3.  **Bishop, N. J.**, Torres, C., & Gupta, S. (2014). *Differences in Health Status among Racial/Ethnic Groups, Arizona, 2011*. <https://pub.azdhs.gov/health-stats/report/dhsag/dhsag11/ethnic11.pdf>
 
-4.  **Bishop, N. J.**, Torres, C., & Gupta, S. (2014). *Health Status Profile of American Indians in Arizona, 2012 Data Book*. [https://pub.azdhs.gov/e-books/american-indians/az-american-](https://pub.azdhs.gov/e-books/american-indians/az-american-indians-2012/files/assets/common/downloads/HSAM%202012.pdf) [indians-2012/files/assets/common/downloads/HSAM%202012.pdf](https://pub.azdhs.gov/e-books/american-indians/az-american-indians-2012/files/assets/common/downloads/HSAM%202012.pdf)
+4.  **Bishop, N. J.**, Torres, C., & Gupta, S. (2014). *Health Status Profile of American Indians in Arizona, 2012 Data Book*. <https://pub.azdhs.gov/e-books/american-indians/az-american-indians-2012/files/assets/common/downloads/HSAM%202012.pdf>
 
 5.  **Bishop, N. J.**, Torres, C., & Gupta, S. (2013). *Arizona Health Status and Vital Statistics, 2012*. <https://pub.azdhs.gov/health-stats/report/ahs/ahs2012/index.php>
 
-**Papers Presented at Professional Meetings** **(\*denotes student author)**
+### Papers Presented at Professional Meetings (\*denotes student author)
 
 1.  **Bishop, N. J.**, Wong, R., Nicklett, E. J., & Riosmena, F. (2026, November). *Cardiometabolic risk and transitions in dementia, disability, and mortality among Mexican-origin older adults*. Paper presentation at the Gerontological Society of America’s annual meeting, National Harbor, MD.
 
@@ -244,7 +249,7 @@ Updated: November 13, 2026
 
 20. **Bishop, N. J.** (2005, April), *Kick It up a Notch: Masculinity, Hierarchy and the Televised Kitchen*. Paper presented at the Pacific Sociological Association's annual meeting.
 
-**Posters Presented at Professional Meetings (\*denotes student author)**
+### Posters Presented at Professional Meetings (\*denotes student author)
 
 1.  McFeeley, B.\*, Strangmann, I., Kantipudi, S. J., Mani, S. S., Farina, M. P., & **Bishop, N. J.** (2026, November). *Examining subjective cognitive assessments in cross-national data: Variation by rural residence and education*. Poster presented at the Gerontological Society of America’s annual meeting, National Harbor, MD.
 
@@ -288,7 +293,7 @@ Updated: November 13, 2026
 
 21. Zuniga, K. E., & **Bishop, N. J.** (2016, March). *Cancer Treatment and Cognitive Decline in the Health and Retirement Study*. Poster presented at the International Cancer and Cognition Task Force Conference, Netherlands.
 
-**Posters Presented at University Symposium (\*denotes student author)**
+### Posters Presented at University Symposium (\*denotes student author)
 
 1.  **Bishop, N. J.**, Campos, B\*, Martinez, D., & Yahirun, J. (2025, April). *Population Aging and Increasing Chronic Disease Burden among Unauthorized Agricultural Workers.* Poster presented at the University of Arizona Division of Agriculture, Life and Veterinary Sciences, and Cooperative Extension research showcase.
 
@@ -304,11 +309,11 @@ Updated: November 13, 2026
 
 7.  **Bishop, N. J.**, & Zuniga, K. E. (2017, February). *Identifying Diet Typologies and Predictors of Macronutrient Consumption among Aging Americans*. Paper presented at the Health Scholar Showcase Texas State University.
 
-**Roundtables**
+### Roundtables
 
 1.  **Bishop, N. J.**, & Schaefer, D. R. (2009, August). American Sociological Association, annual meeting, "The Academic Influence of the Adolescent Peer Group: How Does Variation in Social Network Capital Influence Individual Outcomes?"
 
-**Invited Talks, Lectures, and Presentations**
+### Invited Talks, Lectures, and Presentations
 
 1.  **Bishop, N. J.** (2026, November). Cross-National Perspectives on Subjective Cognitive Impairment and Selection Processes in Aging Research: Evidence from the U.S., Mexico, and Chile. Presented at the Mexican Health and Aging Study monthly lecture series.
 
@@ -338,13 +343,13 @@ Updated: November 13, 2026
 
 14. **Bishop, N. J.** (2011, October). Making Connections, Oklahoma Department of Mental Health and Substance Abuse Services, annual conference, "Comparison of National DUI Data (and more!)."
 
-**Presented Workshops**
+### Presented Workshops
 
 1.  **Bishop, N. J.** (2021, March). Department of Family and Consumer Sciences/College of Applied Arts faculty workshop, "An Introduction to R and R Studio Cloud" Texas State University.
 
 2.  **Bishop, N. J.** (2015, October). Department of Family and Consumer Sciences faculty workshop, "For Good (Latent) Measure: Guidelines in Scale Development" Texas State University.
 
-**Scholarly / Creative Fellowships, Awards, Honors**
+### Scholarly / Creative Fellowships, Awards, Honors
 
 1.  Campos, B\*, **Bishop,N. J.**, Martinez, D., & Yahirun, J. (2025, April). Population aging and increasing chronic disease burden among unauthorized agricultural workers*.* University of Arizona Division of Agriculture, Life and Veterinary Sciences, and Cooperative Extension research showcase poster award, Human Sciences category.
 
@@ -352,7 +357,7 @@ Updated: November 13, 2026
 
 3.  Graduate Student Research Innovation Fellowship Award, Arizona State University, School of Social and Family Dynamics (2010).
 
-**Scholarly / Creative Professional Development Activities Attended**
+### Scholarly / Creative Professional Development Activities Attended
 
 1.  "2026 Short Course on Aging and Cognitive Function using Cross-National Approaches". (March 23 – 27, 2026).
 
@@ -364,7 +369,7 @@ Updated: November 13, 2026
 
 5.  "RAND Summer Institute," Mini-Medical School for Social Scientists/Demography, Economics, and Epidemiology of Aging. (2010).
 
-**Press Coverage**
+### Press Coverage
 
 1.  Media coverage of research. As of 02/28/2023, 61 news outlets, 4 blogs, 23 tweets. "Cohort Trends in the Burden of Multiple Chronic Conditions among Aging U.S. Adults". <https://oxfordjournals.altmetric.com/details/129352660/news>
 
@@ -374,16 +379,16 @@ Updated: November 13, 2026
 
 # **Teaching**
 
-**Courses Taught**
+### Courses Taught
 
-*University of Arizona*
+#### University of Arizona
 
 1.  HDFS 413 - Issues in Aging (1 section; online)
 2.  HDFS 617A - Structural Equation Modeling (3 sections; taught in-person).
 3.  HDFS 537A - Statistical Inference for the Social Sciences (1 section; taught in-person).
 4.  HDFS 536 - Introductory Graduate Statistics (1 section; taught in person).
 
-*Texas State University*
+#### Texas State University
 
 1.  HDFS 1351 - Lifespan Development (1 section; taught hybrid).
 
@@ -397,20 +402,20 @@ Updated: November 13, 2026
 
 6.  FCD 5352 - Seminar -- Health and the Life Course (1 section).
 
-*Arizona State University*
+#### Arizona State University
 
 1.  SOC 390 - Social Statistics I (2 sections).
 
 2.  SOC 391 - Research Methods (2 sections; taught in-person and online).
 
-**Thesis/Comprehensive Exam Committees**
+### Thesis/Comprehensive Exam Committees
 
-*Committee Chair*
+#### Committee Chair
 
 1.  Master's Thesis. "Life-Course Determinants of Multimorbidity in Older Mexican Adults: Childhood Adversity Moderated by Education and Occupation". Status: Complete. (August 2025 -- May 2026). Human Development and Family Science, University of Arizona.
 2.  Master's Thesis. "Social Support and Depressive Outcomes in Bereaved Older Adults: An Analysis of the Health and Retirement Study". Status: Complete. (June 2020 -- May 2021). Human Development and Family Sciences, School of Family and Consumer Sciences, Texas State University.
 
-*Committee Member*
+#### Committee Member
 
 1.  Comprehensive Exam, "Grandparent Multigenerational Relationships in Mexican American Coresiding Families and Implications for Individual and Family Outcomes". Status: incomplete. Human Development and Family Sciences, University of Arizona.
 
@@ -428,7 +433,7 @@ Updated: November 13, 2026
 
 # **Service**
 
-**Academic**
+### Academic
 
 1.  Chair, Dean's Research Advisory Council, College of Agriculture, Life, and Environmental Sciences, University of Arizona (Fall 2025 – Spring 2026)
 2.  Co-Chair, Dean's Research Advisory Council, College of Agriculture, Life, and Environmental Sciences, University of Arizona (Fall 2024 – Spring 2025)
@@ -436,18 +441,18 @@ Updated: November 13, 2026
 4.  Faculty Review Committee, Norton School of Human Ecology (Spring 2024 – present)
 5.  Norton Promotion and Tenure committee member, Norton School of Human Ecology (Fall 2025)
 
-**Professional**
+### Professional
 
-*Federal Grant Review Committee*
+#### Federal Grant Review Committee
 
 1.  National Institutes of Health, Social Sciences and Population Studies B Study Section -- SSPA (Ad Hoc Reviewer, February 2024).
 2.  National Institutes of Health, Social Sciences and Population Studies B Study Section -- SSPB (Early Career Reviewer, February 2022).
 
-*Editorial Review Board Member*
+#### Editorial Review Board Member
 
 1.  Journal of Nutrition in Gerontology and Geriatrics (September 2020 -- present).
 
-*Conference Service*
+#### Conference Service
 
 1.  Session chair, Global Aging and Health, Gerontological Society of America, National Harbor, MD (November 2026).
 
@@ -455,7 +460,7 @@ Updated: November 13, 2026
 
 3.  Rapporteur, International Conference on Aging in the Americas, Chicago, IL (September 2026).
 
-*Reviewer/Referee*
+#### Reviewer/Referee
 
 1.  Scientific Reports (2025).
 
@@ -495,11 +500,11 @@ Updated: November 13, 2026
 
 19. Journal of Gerontology: Social Sciences (2012).
 
-*Invited reviewer*
+#### Invited reviewer
 
 1.  Egg Farmers of Canada, 2019 Grant Request for Proposals.
 
-**Organization Memberships**
+### Organization Memberships
 
 1.  Gerontological Society of America (November 2017 -- November 2018, October 2019 -- present).
 
